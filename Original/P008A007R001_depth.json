@@ -1,0 +1,6662 @@
+[
+  {
+    "frame_id": 0,
+    "keypoint_xyz": {
+      "left_ear": [
+        -52,
+        282,
+        815
+      ],
+      "right_ear": [
+        42,
+        276,
+        826
+      ],
+      "left_shoulder": [
+        -184,
+        402,
+        1138
+      ],
+      "right_shoulder": [
+        167,
+        420,
+        1100
+      ],
+      "left_elbow": [
+        -239,
+        358,
+        1364
+      ],
+      "right_elbow": [
+        221,
+        343,
+        1296
+      ],
+      "left_wrist": [
+        -211,
+        226,
+        1571
+      ],
+      "right_wrist": [
+        209,
+        201,
+        1553
+      ]
+    }
+  },
+  {
+    "frame_id": 1,
+    "keypoint_xyz": {
+      "left_ear": [
+        -49,
+        281,
+        816
+      ],
+      "right_ear": [
+        45,
+        274,
+        833
+      ],
+      "left_shoulder": [
+        -188,
+        395,
+        1149
+      ],
+      "right_shoulder": [
+        173,
+        419,
+        1106
+      ],
+      "left_elbow": [
+        -241,
+        359,
+        1356
+      ],
+      "right_elbow": [
+        228,
+        347,
+        1313
+      ],
+      "left_wrist": [
+        -211,
+        224,
+        1574
+      ],
+      "right_wrist": [
+        209,
+        200,
+        1553
+      ]
+    }
+  },
+  {
+    "frame_id": 2,
+    "keypoint_xyz": {
+      "left_ear": [
+        -48,
+        274,
+        827
+      ],
+      "right_ear": [
+        44,
+        275,
+        830
+      ],
+      "left_shoulder": [
+        -176,
+        408,
+        1129
+      ],
+      "right_shoulder": [
+        169,
+        414,
+        1107
+      ],
+      "left_elbow": [
+        -230,
+        369,
+        1307
+      ],
+      "right_elbow": [
+        223,
+        341,
+        1313
+      ],
+      "left_wrist": [
+        -205,
+        230,
+        1567
+      ],
+      "right_wrist": [
+        202,
+        216,
+        1538
+      ]
+    }
+  },
+  {
+    "frame_id": 3,
+    "keypoint_xyz": {
+      "left_ear": [
+        -51,
+        282,
+        813
+      ],
+      "right_ear": [
+        45,
+        283,
+        818
+      ],
+      "left_shoulder": [
+        -179,
+        411,
+        1128
+      ],
+      "right_shoulder": [
+        168,
+        422,
+        1102
+      ],
+      "left_elbow": [
+        -238,
+        363,
+        1349
+      ],
+      "right_elbow": [
+        225,
+        348,
+        1302
+      ],
+      "left_wrist": [
+        -212,
+        232,
+        1568
+      ],
+      "right_wrist": [
+        209,
+        211,
+        1547
+      ]
+    }
+  },
+  {
+    "frame_id": 4,
+    "keypoint_xyz": {
+      "left_ear": [
+        -50,
+        273,
+        830
+      ],
+      "right_ear": [
+        45,
+        272,
+        831
+      ],
+      "left_shoulder": [
+        -187,
+        396,
+        1148
+      ],
+      "right_shoulder": [
+        172,
+        418,
+        1105
+      ],
+      "left_elbow": [
+        -243,
+        345,
+        1391
+      ],
+      "right_elbow": [
+        232,
+        345,
+        1323
+      ],
+      "left_wrist": [
+        -213,
+        226,
+        1573
+      ],
+      "right_wrist": [
+        206,
+        198,
+        1556
+      ]
+    }
+  },
+  {
+    "frame_id": 5,
+    "keypoint_xyz": {
+      "left_ear": [
+        -51,
+        276,
+        829
+      ],
+      "right_ear": [
+        42,
+        273,
+        828
+      ],
+      "left_shoulder": [
+        -182,
+        402,
+        1139
+      ],
+      "right_shoulder": [
+        168,
+        420,
+        1103
+      ],
+      "left_elbow": [
+        -241,
+        354,
+        1375
+      ],
+      "right_elbow": [
+        219,
+        342,
+        1289
+      ],
+      "left_wrist": [
+        -210,
+        232,
+        1568
+      ],
+      "right_wrist": [
+        207,
+        197,
+        1557
+      ]
+    }
+  },
+  {
+    "frame_id": 6,
+    "keypoint_xyz": {
+      "left_ear": [
+        -51,
+        275,
+        828
+      ],
+      "right_ear": [
+        42,
+        275,
+        829
+      ],
+      "left_shoulder": [
+        -180,
+        410,
+        1127
+      ],
+      "right_shoulder": [
+        171,
+        420,
+        1103
+      ],
+      "left_elbow": [
+        -240,
+        352,
+        1386
+      ],
+      "right_elbow": [
+        229,
+        344,
+        1325
+      ],
+      "left_wrist": [
+        -210,
+        231,
+        1569
+      ],
+      "right_wrist": [
+        206,
+        200,
+        1556
+      ]
+    }
+  },
+  {
+    "frame_id": 7,
+    "keypoint_xyz": {
+      "left_ear": [
+        -51,
+        282,
+        819
+      ],
+      "right_ear": [
+        45,
+        276,
+        832
+      ],
+      "left_shoulder": [
+        -188,
+        385,
+        1168
+      ],
+      "right_shoulder": [
+        166,
+        421,
+        1102
+      ],
+      "left_elbow": [
+        -244,
+        337,
+        1416
+      ],
+      "right_elbow": [
+        223,
+        344,
+        1305
+      ],
+      "left_wrist": [
+        -213,
+        228,
+        1572
+      ],
+      "right_wrist": [
+        209,
+        208,
+        1552
+      ]
+    }
+  },
+  {
+    "frame_id": 8,
+    "keypoint_xyz": {
+      "left_ear": [
+        -51,
+        276,
+        825
+      ],
+      "right_ear": [
+        44,
+        278,
+        827
+      ],
+      "left_shoulder": [
+        -183,
+        408,
+        1132
+      ],
+      "right_shoulder": [
+        168,
+        421,
+        1104
+      ],
+      "left_elbow": [
+        -243,
+        353,
+        1382
+      ],
+      "right_elbow": [
+        227,
+        347,
+        1311
+      ],
+      "left_wrist": [
+        -211,
+        229,
+        1571
+      ],
+      "right_wrist": [
+        206,
+        200,
+        1556
+      ]
+    }
+  },
+  {
+    "frame_id": 9,
+    "keypoint_xyz": {
+      "left_ear": [
+        -55,
+        271,
+        829
+      ],
+      "right_ear": [
+        41,
+        273,
+        833
+      ],
+      "left_shoulder": [
+        -189,
+        395,
+        1150
+      ],
+      "right_shoulder": [
+        168,
+        419,
+        1103
+      ],
+      "left_elbow": [
+        -242,
+        344,
+        1393
+      ],
+      "right_elbow": [
+        227,
+        347,
+        1313
+      ],
+      "left_wrist": [
+        -211,
+        228,
+        1572
+      ],
+      "right_wrist": [
+        210,
+        203,
+        1554
+      ]
+    }
+  },
+  {
+    "frame_id": 10,
+    "keypoint_xyz": {
+      "left_ear": [
+        -52,
+        282,
+        819
+      ],
+      "right_ear": [
+        41,
+        277,
+        826
+      ],
+      "left_shoulder": [
+        -180,
+        409,
+        1131
+      ],
+      "right_shoulder": [
+        165,
+        423,
+        1100
+      ],
+      "left_elbow": [
+        -243,
+        348,
+        1387
+      ],
+      "right_elbow": [
+        226,
+        347,
+        1306
+      ],
+      "left_wrist": [
+        -211,
+        229,
+        1571
+      ],
+      "right_wrist": [
+        206,
+        206,
+        1553
+      ]
+    }
+  },
+  {
+    "frame_id": 11,
+    "keypoint_xyz": {
+      "left_ear": [
+        -50,
+        282,
+        818
+      ],
+      "right_ear": [
+        44,
+        283,
+        820
+      ],
+      "left_shoulder": [
+        -177,
+        412,
+        1126
+      ],
+      "right_shoulder": [
+        167,
+        421,
+        1101
+      ],
+      "left_elbow": [
+        -241,
+        356,
+        1381
+      ],
+      "right_elbow": [
+        224,
+        344,
+        1310
+      ],
+      "left_wrist": [
+        -209,
+        231,
+        1570
+      ],
+      "right_wrist": [
+        206,
+        208,
+        1551
+      ]
+    }
+  },
+  {
+    "frame_id": 12,
+    "keypoint_xyz": {
+      "left_ear": [
+        -52,
+        282,
+        818
+      ],
+      "right_ear": [
+        39,
+        276,
+        828
+      ],
+      "left_shoulder": [
+        -186,
+        397,
+        1148
+      ],
+      "right_shoulder": [
+        164,
+        425,
+        1099
+      ],
+      "left_elbow": [
+        -243,
+        352,
+        1384
+      ],
+      "right_elbow": [
+        223,
+        344,
+        1305
+      ],
+      "left_wrist": [
+        -212,
+        232,
+        1566
+      ],
+      "right_wrist": [
+        206,
+        201,
+        1554
+      ]
+    }
+  },
+  {
+    "frame_id": 13,
+    "keypoint_xyz": {
+      "left_ear": [
+        -53,
+        276,
+        826
+      ],
+      "right_ear": [
+        41,
+        281,
+        819
+      ],
+      "left_shoulder": [
+        -184,
+        402,
+        1139
+      ],
+      "right_shoulder": [
+        167,
+        420,
+        1103
+      ],
+      "left_elbow": [
+        -243,
+        351,
+        1382
+      ],
+      "right_elbow": [
+        222,
+        345,
+        1301
+      ],
+      "left_wrist": [
+        -211,
+        228,
+        1572
+      ],
+      "right_wrist": [
+        207,
+        211,
+        1547
+      ]
+    }
+  },
+  {
+    "frame_id": 14,
+    "keypoint_xyz": {
+      "left_ear": [
+        -50,
+        272,
+        829
+      ],
+      "right_ear": [
+        45,
+        272,
+        837
+      ],
+      "left_shoulder": [
+        -189,
+        383,
+        1170
+      ],
+      "right_shoulder": [
+        172,
+        419,
+        1107
+      ],
+      "left_elbow": [
+        -250,
+        339,
+        1415
+      ],
+      "right_elbow": [
+        224,
+        349,
+        1297
+      ],
+      "left_wrist": [
+        -213,
+        225,
+        1575
+      ],
+      "right_wrist": [
+        210,
+        215,
+        1542
+      ]
+    }
+  },
+  {
+    "frame_id": 15,
+    "keypoint_xyz": {
+      "left_ear": [
+        -54,
+        281,
+        815
+      ],
+      "right_ear": [
+        43,
+        282,
+        820
+      ],
+      "left_shoulder": [
+        -184,
+        404,
+        1138
+      ],
+      "right_shoulder": [
+        168,
+        421,
+        1102
+      ],
+      "left_elbow": [
+        -244,
+        344,
+        1390
+      ],
+      "right_elbow": [
+        223,
+        345,
+        1306
+      ],
+      "left_wrist": [
+        -211,
+        229,
+        1571
+      ],
+      "right_wrist": [
+        210,
+        197,
+        1560
+      ]
+    }
+  },
+  {
+    "frame_id": 16,
+    "keypoint_xyz": {
+      "left_ear": [
+        -53,
+        283,
+        813
+      ],
+      "right_ear": [
+        41,
+        285,
+        817
+      ],
+      "left_shoulder": [
+        -185,
+        407,
+        1136
+      ],
+      "right_shoulder": [
+        167,
+        422,
+        1102
+      ],
+      "left_elbow": [
+        -243,
+        346,
+        1392
+      ],
+      "right_elbow": [
+        222,
+        345,
+        1303
+      ],
+      "left_wrist": [
+        -211,
+        226,
+        1574
+      ],
+      "right_wrist": [
+        210,
+        202,
+        1556
+      ]
+    }
+  },
+  {
+    "frame_id": 17,
+    "keypoint_xyz": {
+      "left_ear": [
+        -55,
+        275,
+        826
+      ],
+      "right_ear": [
+        42,
+        275,
+        827
+      ],
+      "left_shoulder": [
+        -185,
+        406,
+        1137
+      ],
+      "right_shoulder": [
+        167,
+        422,
+        1102
+      ],
+      "left_elbow": [
+        -244,
+        350,
+        1381
+      ],
+      "right_elbow": [
+        220,
+        347,
+        1287
+      ],
+      "left_wrist": [
+        -210,
+        232,
+        1567
+      ],
+      "right_wrist": [
+        208,
+        214,
+        1544
+      ]
+    }
+  },
+  {
+    "frame_id": 18,
+    "keypoint_xyz": {
+      "left_ear": [
+        -55,
+        267,
+        837
+      ],
+      "right_ear": [
+        42,
+        275,
+        831
+      ],
+      "left_shoulder": [
+        -188,
+        401,
+        1145
+      ],
+      "right_shoulder": [
+        167,
+        419,
+        1103
+      ],
+      "left_elbow": [
+        -245,
+        337,
+        1419
+      ],
+      "right_elbow": [
+        221,
+        342,
+        1301
+      ],
+      "left_wrist": [
+        -213,
+        226,
+        1574
+      ],
+      "right_wrist": [
+        210,
+        203,
+        1556
+      ]
+    }
+  },
+  {
+    "frame_id": 19,
+    "keypoint_xyz": {
+      "left_ear": [
+        -55,
+        264,
+        852
+      ],
+      "right_ear": [
+        46,
+        272,
+        831
+      ],
+      "left_shoulder": [
+        -187,
+        401,
+        1143
+      ],
+      "right_shoulder": [
+        173,
+        414,
+        1110
+      ],
+      "left_elbow": [
+        -243,
+        338,
+        1408
+      ],
+      "right_elbow": [
+        229,
+        345,
+        1324
+      ],
+      "left_wrist": [
+        -213,
+        229,
+        1572
+      ],
+      "right_wrist": [
+        207,
+        195,
+        1560
+      ]
+    }
+  },
+  {
+    "frame_id": 20,
+    "keypoint_xyz": {
+      "left_ear": [
+        -55,
+        271,
+        838
+      ],
+      "right_ear": [
+        46,
+        272,
+        832
+      ],
+      "left_shoulder": [
+        -186,
+        394,
+        1151
+      ],
+      "right_shoulder": [
+        171,
+        419,
+        1105
+      ],
+      "left_elbow": [
+        -245,
+        339,
+        1404
+      ],
+      "right_elbow": [
+        219,
+        348,
+        1286
+      ],
+      "left_wrist": [
+        -214,
+        229,
+        1573
+      ],
+      "right_wrist": [
+        204,
+        209,
+        1551
+      ]
+    }
+  },
+  {
+    "frame_id": 21,
+    "keypoint_xyz": {
+      "left_ear": [
+        -53,
+        268,
+        836
+      ],
+      "right_ear": [
+        46,
+        273,
+        832
+      ],
+      "left_shoulder": [
+        -190,
+        395,
+        1151
+      ],
+      "right_shoulder": [
+        166,
+        420,
+        1101
+      ],
+      "left_elbow": [
+        -246,
+        340,
+        1408
+      ],
+      "right_elbow": [
+        226,
+        349,
+        1302
+      ],
+      "left_wrist": [
+        -215,
+        223,
+        1576
+      ],
+      "right_wrist": [
+        209,
+        217,
+        1536
+      ]
+    }
+  },
+  {
+    "frame_id": 22,
+    "keypoint_xyz": {
+      "left_ear": [
+        -50,
+        269,
+        832
+      ],
+      "right_ear": [
+        46,
+        272,
+        830
+      ],
+      "left_shoulder": [
+        -189,
+        398,
+        1147
+      ],
+      "right_shoulder": [
+        168,
+        419,
+        1104
+      ],
+      "left_elbow": [
+        -247,
+        339,
+        1406
+      ],
+      "right_elbow": [
+        227,
+        347,
+        1314
+      ],
+      "left_wrist": [
+        -216,
+        228,
+        1573
+      ],
+      "right_wrist": [
+        208,
+        206,
+        1552
+      ]
+    }
+  },
+  {
+    "frame_id": 23,
+    "keypoint_xyz": {
+      "left_ear": [
+        -52,
+        269,
+        834
+      ],
+      "right_ear": [
+        43,
+        271,
+        832
+      ],
+      "left_shoulder": [
+        -191,
+        398,
+        1145
+      ],
+      "right_shoulder": [
+        171,
+        417,
+        1107
+      ],
+      "left_elbow": [
+        -245,
+        346,
+        1395
+      ],
+      "right_elbow": [
+        226,
+        347,
+        1309
+      ],
+      "left_wrist": [
+        -215,
+        218,
+        1577
+      ],
+      "right_wrist": [
+        206,
+        216,
+        1539
+      ]
+    }
+  },
+  {
+    "frame_id": 24,
+    "keypoint_xyz": {
+      "left_ear": [
+        -53,
+        271,
+        825
+      ],
+      "right_ear": [
+        46,
+        272,
+        834
+      ],
+      "left_shoulder": [
+        -190,
+        402,
+        1140
+      ],
+      "right_shoulder": [
+        173,
+        411,
+        1111
+      ],
+      "left_elbow": [
+        -247,
+        342,
+        1399
+      ],
+      "right_elbow": [
+        224,
+        340,
+        1321
+      ],
+      "left_wrist": [
+        -222,
+        213,
+        1579
+      ],
+      "right_wrist": [
+        207,
+        216,
+        1538
+      ]
+    }
+  },
+  {
+    "frame_id": 25,
+    "keypoint_xyz": {
+      "left_ear": [
+        -55,
+        262,
+        842
+      ],
+      "right_ear": [
+        44,
+        270,
+        832
+      ],
+      "left_shoulder": [
+        -191,
+        405,
+        1138
+      ],
+      "right_shoulder": [
+        171,
+        412,
+        1107
+      ],
+      "left_elbow": [
+        -252,
+        338,
+        1426
+      ],
+      "right_elbow": [
+        226,
+        344,
+        1318
+      ],
+      "left_wrist": [
+        -228,
+        197,
+        1585
+      ],
+      "right_wrist": [
+        206,
+        215,
+        1540
+      ]
+    }
+  },
+  {
+    "frame_id": 26,
+    "keypoint_xyz": {
+      "left_ear": [
+        -53,
+        275,
+        819
+      ],
+      "right_ear": [
+        44,
+        268,
+        834
+      ],
+      "left_shoulder": [
+        -191,
+        407,
+        1138
+      ],
+      "right_shoulder": [
+        175,
+        406,
+        1115
+      ],
+      "left_elbow": [
+        -248,
+        339,
+        1404
+      ],
+      "right_elbow": [
+        226,
+        339,
+        1331
+      ],
+      "left_wrist": [
+        -231,
+        205,
+        1569
+      ],
+      "right_wrist": [
+        208,
+        201,
+        1554
+      ]
+    }
+  },
+  {
+    "frame_id": 27,
+    "keypoint_xyz": {
+      "left_ear": [
+        -66,
+        267,
+        829
+      ],
+      "right_ear": [
+        44,
+        279,
+        827
+      ],
+      "left_shoulder": [
+        -196,
+        394,
+        1153
+      ],
+      "right_shoulder": [
+        173,
+        407,
+        1111
+      ],
+      "left_elbow": [
+        -252,
+        323,
+        1440
+      ],
+      "right_elbow": [
+        224,
+        339,
+        1318
+      ],
+      "left_wrist": [
+        -231,
+        183,
+        1572
+      ],
+      "right_wrist": [
+        204,
+        207,
+        1547
+      ]
+    }
+  },
+  {
+    "frame_id": 28,
+    "keypoint_xyz": {
+      "left_ear": [
+        -67,
+        301,
+        806
+      ],
+      "right_ear": [
+        44,
+        305,
+        817
+      ],
+      "left_shoulder": [
+        -196,
+        394,
+        1151
+      ],
+      "right_shoulder": [
+        171,
+        403,
+        1111
+      ],
+      "left_elbow": [
+        -252,
+        322,
+        1415
+      ],
+      "right_elbow": [
+        220,
+        342,
+        1296
+      ],
+      "left_wrist": [
+        -235,
+        201,
+        1538
+      ],
+      "right_wrist": [
+        208,
+        195,
+        1556
+      ]
+    }
+  },
+  {
+    "frame_id": 29,
+    "keypoint_xyz": {
+      "left_ear": [
+        -66,
+        299,
+        808
+      ],
+      "right_ear": [
+        45,
+        289,
+        828
+      ],
+      "left_shoulder": [
+        -200,
+        383,
+        1159
+      ],
+      "right_shoulder": [
+        167,
+        404,
+        1105
+      ],
+      "left_elbow": [
+        -252,
+        317,
+        1407
+      ],
+      "right_elbow": [
+        226,
+        341,
+        1324
+      ],
+      "left_wrist": [
+        -237,
+        185,
+        1542
+      ],
+      "right_wrist": [
+        212,
+        192,
+        1560
+      ]
+    }
+  },
+  {
+    "frame_id": 30,
+    "keypoint_xyz": {
+      "left_ear": [
+        -80,
+        300,
+        818
+      ],
+      "right_ear": [
+        42,
+        278,
+        839
+      ],
+      "left_shoulder": [
+        -207,
+        370,
+        1178
+      ],
+      "right_shoulder": [
+        169,
+        402,
+        1105
+      ],
+      "left_elbow": [
+        -250,
+        300,
+        1433
+      ],
+      "right_elbow": [
+        230,
+        340,
+        1330
+      ],
+      "left_wrist": [
+        -250,
+        158,
+        1558
+      ],
+      "right_wrist": [
+        214,
+        192,
+        1559
+      ]
+    }
+  },
+  {
+    "frame_id": 31,
+    "keypoint_xyz": {
+      "left_ear": [
+        -86,
+        301,
+        817
+      ],
+      "right_ear": [
+        43,
+        270,
+        854
+      ],
+      "left_shoulder": [
+        -207,
+        377,
+        1163
+      ],
+      "right_shoulder": [
+        173,
+        396,
+        1111
+      ],
+      "left_elbow": [
+        -250,
+        284,
+        1440
+      ],
+      "right_elbow": [
+        230,
+        337,
+        1330
+      ],
+      "left_wrist": [
+        -253,
+        112,
+        1579
+      ],
+      "right_wrist": [
+        215,
+        195,
+        1554
+      ]
+    }
+  },
+  {
+    "frame_id": 32,
+    "keypoint_xyz": {
+      "left_ear": [
+        -111,
+        298,
+        836
+      ],
+      "right_ear": [
+        39,
+        253,
+        878
+      ],
+      "left_shoulder": [
+        -208,
+        376,
+        1159
+      ],
+      "right_shoulder": [
+        168,
+        393,
+        1110
+      ],
+      "left_elbow": [
+        -250,
+        284,
+        1423
+      ],
+      "right_elbow": [
+        229,
+        337,
+        1326
+      ],
+      "left_wrist": [
+        -252,
+        110,
+        1573
+      ],
+      "right_wrist": [
+        217,
+        196,
+        1549
+      ]
+    }
+  },
+  {
+    "frame_id": 33,
+    "keypoint_xyz": {
+      "left_ear": [
+        -129,
+        304,
+        871
+      ],
+      "right_ear": [
+        30,
+        247,
+        862
+      ],
+      "left_shoulder": [
+        -209,
+        371,
+        1162
+      ],
+      "right_shoulder": [
+        167,
+        390,
+        1110
+      ],
+      "left_elbow": [
+        -251,
+        277,
+        1418
+      ],
+      "right_elbow": [
+        230,
+        338,
+        1312
+      ],
+      "left_wrist": [
+        -254,
+        108,
+        1572
+      ],
+      "right_wrist": [
+        220,
+        193,
+        1553
+      ]
+    }
+  },
+  {
+    "frame_id": 34,
+    "keypoint_xyz": {
+      "left_ear": [
+        -136,
+        290,
+        882
+      ],
+      "right_ear": [
+        31,
+        250,
+        866
+      ],
+      "left_shoulder": [
+        -210,
+        364,
+        1163
+      ],
+      "right_shoulder": [
+        166,
+        387,
+        1112
+      ],
+      "left_elbow": [
+        -249,
+        263,
+        1434
+      ],
+      "right_elbow": [
+        228,
+        336,
+        1317
+      ],
+      "left_wrist": [
+        -253,
+        95,
+        1578
+      ],
+      "right_wrist": [
+        216,
+        191,
+        1552
+      ]
+    }
+  },
+  {
+    "frame_id": 35,
+    "keypoint_xyz": {
+      "left_ear": [
+        -136,
+        285,
+        870
+      ],
+      "right_ear": [
+        30,
+        254,
+        859
+      ],
+      "left_shoulder": [
+        -211,
+        357,
+        1164
+      ],
+      "right_shoulder": [
+        162,
+        388,
+        1107
+      ],
+      "left_elbow": [
+        -251,
+        252,
+        1443
+      ],
+      "right_elbow": [
+        227,
+        335,
+        1323
+      ],
+      "left_wrist": [
+        -253,
+        80,
+        1586
+      ],
+      "right_wrist": [
+        216,
+        190,
+        1554
+      ]
+    }
+  },
+  {
+    "frame_id": 36,
+    "keypoint_xyz": {
+      "left_ear": [
+        -132,
+        267,
+        857
+      ],
+      "right_ear": [
+        32,
+        259,
+        866
+      ],
+      "left_shoulder": [
+        -211,
+        356,
+        1162
+      ],
+      "right_shoulder": [
+        158,
+        385,
+        1105
+      ],
+      "left_elbow": [
+        -249,
+        250,
+        1432
+      ],
+      "right_elbow": [
+        223,
+        333,
+        1325
+      ],
+      "left_wrist": [
+        -254,
+        80,
+        1585
+      ],
+      "right_wrist": [
+        218,
+        188,
+        1555
+      ]
+    }
+  },
+  {
+    "frame_id": 37,
+    "keypoint_xyz": {
+      "left_ear": [
+        -134,
+        262,
+        853
+      ],
+      "right_ear": [
+        25,
+        250,
+        862
+      ],
+      "left_shoulder": [
+        -212,
+        350,
+        1163
+      ],
+      "right_shoulder": [
+        156,
+        382,
+        1105
+      ],
+      "left_elbow": [
+        -249,
+        246,
+        1425
+      ],
+      "right_elbow": [
+        224,
+        332,
+        1326
+      ],
+      "left_wrist": [
+        -255,
+        76,
+        1591
+      ],
+      "right_wrist": [
+        216,
+        189,
+        1552
+      ]
+    }
+  },
+  {
+    "frame_id": 38,
+    "keypoint_xyz": {
+      "left_ear": [
+        -132,
+        256,
+        850
+      ],
+      "right_ear": [
+        21,
+        248,
+        859
+      ],
+      "left_shoulder": [
+        -215,
+        341,
+        1166
+      ],
+      "right_shoulder": [
+        154,
+        376,
+        1107
+      ],
+      "left_elbow": [
+        -251,
+        237,
+        1444
+      ],
+      "right_elbow": [
+        218,
+        333,
+        1302
+      ],
+      "left_wrist": [
+        -255,
+        61,
+        1600
+      ],
+      "right_wrist": [
+        217,
+        199,
+        1545
+      ]
+    }
+  },
+  {
+    "frame_id": 39,
+    "keypoint_xyz": {
+      "left_ear": [
+        -133,
+        256,
+        851
+      ],
+      "right_ear": [
+        17,
+        248,
+        856
+      ],
+      "left_shoulder": [
+        -215,
+        343,
+        1161
+      ],
+      "right_shoulder": [
+        156,
+        375,
+        1107
+      ],
+      "left_elbow": [
+        -252,
+        248,
+        1411
+      ],
+      "right_elbow": [
+        219,
+        330,
+        1315
+      ],
+      "left_wrist": [
+        -259,
+        78,
+        1592
+      ],
+      "right_wrist": [
+        212,
+        185,
+        1556
+      ]
+    }
+  },
+  {
+    "frame_id": 40,
+    "keypoint_xyz": {
+      "left_ear": [
+        -131,
+        252,
+        845
+      ],
+      "right_ear": [
+        16,
+        248,
+        854
+      ],
+      "left_shoulder": [
+        -216,
+        342,
+        1160
+      ],
+      "right_shoulder": [
+        149,
+        373,
+        1104
+      ],
+      "left_elbow": [
+        -256,
+        243,
+        1418
+      ],
+      "right_elbow": [
+        217,
+        328,
+        1294
+      ],
+      "left_wrist": [
+        -262,
+        70,
+        1599
+      ],
+      "right_wrist": [
+        217,
+        185,
+        1557
+      ]
+    }
+  },
+  {
+    "frame_id": 41,
+    "keypoint_xyz": {
+      "left_ear": [
+        -130,
+        252,
+        844
+      ],
+      "right_ear": [
+        19,
+        249,
+        867
+      ],
+      "left_shoulder": [
+        -218,
+        340,
+        1159
+      ],
+      "right_shoulder": [
+        149,
+        367,
+        1106
+      ],
+      "left_elbow": [
+        -255,
+        246,
+        1398
+      ],
+      "right_elbow": [
+        217,
+        328,
+        1284
+      ],
+      "left_wrist": [
+        -262,
+        83,
+        1590
+      ],
+      "right_wrist": [
+        217,
+        191,
+        1550
+      ]
+    }
+  },
+  {
+    "frame_id": 42,
+    "keypoint_xyz": {
+      "left_ear": [
+        -134,
+        246,
+        845
+      ],
+      "right_ear": [
+        15,
+        247,
+        863
+      ],
+      "left_shoulder": [
+        -217,
+        338,
+        1159
+      ],
+      "right_shoulder": [
+        141,
+        372,
+        1098
+      ],
+      "left_elbow": [
+        -257,
+        247,
+        1397
+      ],
+      "right_elbow": [
+        214,
+        330,
+        1276
+      ],
+      "left_wrist": [
+        -262,
+        78,
+        1598
+      ],
+      "right_wrist": [
+        220,
+        189,
+        1553
+      ]
+    }
+  },
+  {
+    "frame_id": 43,
+    "keypoint_xyz": {
+      "left_ear": [
+        -135,
+        242,
+        846
+      ],
+      "right_ear": [
+        18,
+        240,
+        875
+      ],
+      "left_shoulder": [
+        -216,
+        357,
+        1148
+      ],
+      "right_shoulder": [
+        146,
+        362,
+        1107
+      ],
+      "left_elbow": [
+        -261,
+        247,
+        1399
+      ],
+      "right_elbow": [
+        213,
+        326,
+        1277
+      ],
+      "left_wrist": [
+        -263,
+        87,
+        1594
+      ],
+      "right_wrist": [
+        219,
+        183,
+        1558
+      ]
+    }
+  },
+  {
+    "frame_id": 44,
+    "keypoint_xyz": {
+      "left_ear": [
+        -137,
+        251,
+        849
+      ],
+      "right_ear": [
+        10,
+        240,
+        865
+      ],
+      "left_shoulder": [
+        -213,
+        332,
+        1145
+      ],
+      "right_shoulder": [
+        146,
+        360,
+        1107
+      ],
+      "left_elbow": [
+        -263,
+        246,
+        1424
+      ],
+      "right_elbow": [
+        217,
+        325,
+        1273
+      ],
+      "left_wrist": [
+        -260,
+        82,
+        1601
+      ],
+      "right_wrist": [
+        223,
+        186,
+        1555
+      ]
+    }
+  },
+  {
+    "frame_id": 45,
+    "keypoint_xyz": {
+      "left_ear": [
+        -142,
+        245,
+        854
+      ],
+      "right_ear": [
+        8,
+        230,
+        870
+      ],
+      "left_shoulder": [
+        -218,
+        326,
+        1153
+      ],
+      "right_shoulder": [
+        148,
+        356,
+        1107
+      ],
+      "left_elbow": [
+        -265,
+        245,
+        1435
+      ],
+      "right_elbow": [
+        217,
+        321,
+        1280
+      ],
+      "left_wrist": [
+        -262,
+        89,
+        1599
+      ],
+      "right_wrist": [
+        228,
+        175,
+        1561
+      ]
+    }
+  },
+  {
+    "frame_id": 46,
+    "keypoint_xyz": {
+      "left_ear": [
+        -144,
+        253,
+        862
+      ],
+      "right_ear": [
+        15,
+        245,
+        900
+      ],
+      "left_shoulder": [
+        -210,
+        337,
+        1145
+      ],
+      "right_shoulder": [
+        151,
+        352,
+        1110
+      ],
+      "left_elbow": [
+        -263,
+        257,
+        1378
+      ],
+      "right_elbow": [
+        221,
+        318,
+        1283
+      ],
+      "left_wrist": [
+        -258,
+        123,
+        1569
+      ],
+      "right_wrist": [
+        235,
+        178,
+        1554
+      ]
+    }
+  },
+  {
+    "frame_id": 47,
+    "keypoint_xyz": {
+      "left_ear": [
+        -145,
+        244,
+        863
+      ],
+      "right_ear": [
+        7,
+        232,
+        876
+      ],
+      "left_shoulder": [
+        -214,
+        336,
+        1150
+      ],
+      "right_shoulder": [
+        148,
+        346,
+        1115
+      ],
+      "left_elbow": [
+        -264,
+        248,
+        1396
+      ],
+      "right_elbow": [
+        230,
+        312,
+        1305
+      ],
+      "left_wrist": [
+        -265,
+        99,
+        1597
+      ],
+      "right_wrist": [
+        243,
+        154,
+        1570
+      ]
+    }
+  },
+  {
+    "frame_id": 48,
+    "keypoint_xyz": {
+      "left_ear": [
+        -142,
+        238,
+        856
+      ],
+      "right_ear": [
+        5,
+        225,
+        872
+      ],
+      "left_shoulder": [
+        -212,
+        334,
+        1147
+      ],
+      "right_shoulder": [
+        130,
+        349,
+        1102
+      ],
+      "left_elbow": [
+        -263,
+        249,
+        1385
+      ],
+      "right_elbow": [
+        234,
+        314,
+        1301
+      ],
+      "left_wrist": [
+        -259,
+        109,
+        1583
+      ],
+      "right_wrist": [
+        252,
+        143,
+        1567
+      ]
+    }
+  },
+  {
+    "frame_id": 49,
+    "keypoint_xyz": {
+      "left_ear": [
+        -145,
+        241,
+        866
+      ],
+      "right_ear": [
+        11,
+        238,
+        910
+      ],
+      "left_shoulder": [
+        -211,
+        334,
+        1146
+      ],
+      "right_shoulder": [
+        144,
+        342,
+        1113
+      ],
+      "left_elbow": [
+        -256,
+        262,
+        1356
+      ],
+      "right_elbow": [
+        243,
+        315,
+        1323
+      ],
+      "left_wrist": [
+        -263,
+        132,
+        1574
+      ],
+      "right_wrist": [
+        267,
+        153,
+        1557
+      ]
+    }
+  },
+  {
+    "frame_id": 50,
+    "keypoint_xyz": {
+      "left_ear": [
+        -146,
+        239,
+        871
+      ],
+      "right_ear": [
+        7,
+        225,
+        892
+      ],
+      "left_shoulder": [
+        -210,
+        332,
+        1148
+      ],
+      "right_shoulder": [
+        120,
+        338,
+        1102
+      ],
+      "left_elbow": [
+        -259,
+        254,
+        1363
+      ],
+      "right_elbow": [
+        248,
+        303,
+        1350
+      ],
+      "left_wrist": [
+        -262,
+        117,
+        1583
+      ],
+      "right_wrist": [
+        285,
+        129,
+        1561
+      ]
+    }
+  },
+  {
+    "frame_id": 51,
+    "keypoint_xyz": {
+      "left_ear": [
+        -145,
+        232,
+        866
+      ],
+      "right_ear": [
+        6,
+        213,
+        893
+      ],
+      "left_shoulder": [
+        -213,
+        318,
+        1154
+      ],
+      "right_shoulder": [
+        113,
+        329,
+        1105
+      ],
+      "left_elbow": [
+        -261,
+        246,
+        1374
+      ],
+      "right_elbow": [
+        252,
+        312,
+        1329
+      ],
+      "left_wrist": [
+        -266,
+        100,
+        1603
+      ],
+      "right_wrist": [
+        301,
+        132,
+        1554
+      ]
+    }
+  },
+  {
+    "frame_id": 52,
+    "keypoint_xyz": {
+      "left_ear": [
+        -144,
+        231,
+        870
+      ],
+      "right_ear": [
+        6,
+        212,
+        896
+      ],
+      "left_shoulder": [
+        -216,
+        311,
+        1161
+      ],
+      "right_shoulder": [
+        112,
+        328,
+        1104
+      ],
+      "left_elbow": [
+        -263,
+        244,
+        1374
+      ],
+      "right_elbow": [
+        249,
+        317,
+        1309
+      ],
+      "left_wrist": [
+        -267,
+        106,
+        1599
+      ],
+      "right_wrist": [
+        312,
+        123,
+        1545
+      ]
+    }
+  },
+  {
+    "frame_id": 53,
+    "keypoint_xyz": {
+      "left_ear": [
+        -149,
+        228,
+        880
+      ],
+      "right_ear": [
+        7,
+        208,
+        905
+      ],
+      "left_shoulder": [
+        -215,
+        310,
+        1161
+      ],
+      "right_shoulder": [
+        106,
+        321,
+        1105
+      ],
+      "left_elbow": [
+        -169,
+        154,
+        896
+      ],
+      "right_elbow": [
+        251,
+        312,
+        1310
+      ],
+      "left_wrist": [
+        -277,
+        78,
+        1627
+      ],
+      "right_wrist": [
+        325,
+        123,
+        1533
+      ]
+    }
+  },
+  {
+    "frame_id": 54,
+    "keypoint_xyz": {
+      "left_ear": [
+        -146,
+        230,
+        881
+      ],
+      "right_ear": [
+        8,
+        209,
+        916
+      ],
+      "left_shoulder": [
+        -204,
+        321,
+        1148
+      ],
+      "right_shoulder": [
+        114,
+        315,
+        1109
+      ],
+      "left_elbow": [
+        -260,
+        251,
+        1353
+      ],
+      "right_elbow": [
+        262,
+        296,
+        1332
+      ],
+      "left_wrist": [
+        -276,
+        107,
+        1604
+      ],
+      "right_wrist": [
+        340,
+        110,
+        1529
+      ]
+    }
+  },
+  {
+    "frame_id": 55,
+    "keypoint_xyz": {
+      "left_ear": [
+        -143,
+        230,
+        883
+      ],
+      "right_ear": [
+        2,
+        203,
+        900
+      ],
+      "left_shoulder": [
+        -207,
+        312,
+        1155
+      ],
+      "right_shoulder": [
+        118,
+        312,
+        1111
+      ],
+      "left_elbow": [
+        -173,
+        160,
+        906
+      ],
+      "right_elbow": [
+        266,
+        282,
+        1335
+      ],
+      "left_wrist": [
+        -276,
+        92,
+        1622
+      ],
+      "right_wrist": [
+        347,
+        99,
+        1521
+      ]
+    }
+  },
+  {
+    "frame_id": 56,
+    "keypoint_xyz": {
+      "left_ear": [
+        -138,
+        227,
+        885
+      ],
+      "right_ear": [
+        5,
+        192,
+        909
+      ],
+      "left_shoulder": [
+        -198,
+        320,
+        1149
+      ],
+      "right_shoulder": [
+        114,
+        308,
+        1110
+      ],
+      "left_elbow": [
+        -252,
+        243,
+        1302
+      ],
+      "right_elbow": [
+        271,
+        267,
+        1345
+      ],
+      "left_wrist": [
+        -279,
+        126,
+        1589
+      ],
+      "right_wrist": [
+        357,
+        91,
+        1516
+      ]
+    }
+  },
+  {
+    "frame_id": 57,
+    "keypoint_xyz": {
+      "left_ear": [
+        -139,
+        218,
+        885
+      ],
+      "right_ear": [
+        5,
+        179,
+        913
+      ],
+      "left_shoulder": [
+        -206,
+        314,
+        1159
+      ],
+      "right_shoulder": [
+        111,
+        306,
+        1108
+      ],
+      "left_elbow": [
+        -261,
+        242,
+        1343
+      ],
+      "right_elbow": [
+        275,
+        262,
+        1338
+      ],
+      "left_wrist": [
+        -279,
+        131,
+        1580
+      ],
+      "right_wrist": [
+        365,
+        80,
+        1510
+      ]
+    }
+  },
+  {
+    "frame_id": 58,
+    "keypoint_xyz": {
+      "left_ear": [
+        -136,
+        211,
+        883
+      ],
+      "right_ear": [
+        4,
+        174,
+        914
+      ],
+      "left_shoulder": [
+        -199,
+        310,
+        1157
+      ],
+      "right_shoulder": [
+        113,
+        301,
+        1108
+      ],
+      "left_elbow": [
+        -249,
+        235,
+        1287
+      ],
+      "right_elbow": [
+        277,
+        254,
+        1338
+      ],
+      "left_wrist": [
+        -284,
+        152,
+        1572
+      ],
+      "right_wrist": [
+        370,
+        75,
+        1503
+      ]
+    }
+  },
+  {
+    "frame_id": 59,
+    "keypoint_xyz": {
+      "left_ear": [
+        -139,
+        206,
+        889
+      ],
+      "right_ear": [
+        0,
+        168,
+        908
+      ],
+      "left_shoulder": [
+        -206,
+        295,
+        1164
+      ],
+      "right_shoulder": [
+        109,
+        295,
+        1111
+      ],
+      "left_elbow": [
+        -266,
+        235,
+        1360
+      ],
+      "right_elbow": [
+        274,
+        250,
+        1331
+      ],
+      "left_wrist": [
+        -287,
+        124,
+        1586
+      ],
+      "right_wrist": [
+        375,
+        64,
+        1503
+      ]
+    }
+  },
+  {
+    "frame_id": 60,
+    "keypoint_xyz": {
+      "left_ear": [
+        -133,
+        198,
+        882
+      ],
+      "right_ear": [
+        2,
+        173,
+        915
+      ],
+      "left_shoulder": [
+        -208,
+        280,
+        1171
+      ],
+      "right_shoulder": [
+        115,
+        287,
+        1116
+      ],
+      "left_elbow": [
+        -267,
+        227,
+        1375
+      ],
+      "right_elbow": [
+        280,
+        236,
+        1341
+      ],
+      "left_wrist": [
+        -288,
+        115,
+        1594
+      ],
+      "right_wrist": [
+        379,
+        60,
+        1500
+      ]
+    }
+  },
+  {
+    "frame_id": 61,
+    "keypoint_xyz": {
+      "left_ear": [
+        -136,
+        191,
+        887
+      ],
+      "right_ear": [
+        -2,
+        168,
+        909
+      ],
+      "left_shoulder": [
+        -218,
+        271,
+        1185
+      ],
+      "right_shoulder": [
+        116,
+        281,
+        1117
+      ],
+      "left_elbow": [
+        -272,
+        221,
+        1385
+      ],
+      "right_elbow": [
+        286,
+        230,
+        1348
+      ],
+      "left_wrist": [
+        -289,
+        121,
+        1587
+      ],
+      "right_wrist": [
+        386,
+        52,
+        1501
+      ]
+    }
+  },
+  {
+    "frame_id": 62,
+    "keypoint_xyz": {
+      "left_ear": [
+        -135,
+        185,
+        890
+      ],
+      "right_ear": [
+        1,
+        163,
+        918
+      ],
+      "left_shoulder": [
+        -219,
+        269,
+        1188
+      ],
+      "right_shoulder": [
+        114,
+        276,
+        1119
+      ],
+      "left_elbow": [
+        -273,
+        215,
+        1396
+      ],
+      "right_elbow": [
+        280,
+        232,
+        1331
+      ],
+      "left_wrist": [
+        -290,
+        83,
+        1619
+      ],
+      "right_wrist": [
+        393,
+        49,
+        1509
+      ]
+    }
+  },
+  {
+    "frame_id": 63,
+    "keypoint_xyz": {
+      "left_ear": [
+        -124,
+        163,
+        879
+      ],
+      "right_ear": [
+        0,
+        157,
+        919
+      ],
+      "left_shoulder": [
+        -223,
+        261,
+        1194
+      ],
+      "right_shoulder": [
+        109,
+        273,
+        1117
+      ],
+      "left_elbow": [
+        -273,
+        220,
+        1379
+      ],
+      "right_elbow": [
+        280,
+        228,
+        1330
+      ],
+      "left_wrist": [
+        -294,
+        106,
+        1597
+      ],
+      "right_wrist": [
+        396,
+        43,
+        1514
+      ]
+    }
+  },
+  {
+    "frame_id": 64,
+    "keypoint_xyz": {
+      "left_ear": [
+        -120,
+        165,
+        881
+      ],
+      "right_ear": [
+        3,
+        158,
+        926
+      ],
+      "left_shoulder": [
+        -222,
+        267,
+        1190
+      ],
+      "right_shoulder": [
+        106,
+        273,
+        1117
+      ],
+      "left_elbow": [
+        -276,
+        214,
+        1387
+      ],
+      "right_elbow": [
+        281,
+        224,
+        1332
+      ],
+      "left_wrist": [
+        -297,
+        66,
+        1630
+      ],
+      "right_wrist": [
+        399,
+        44,
+        1515
+      ]
+    }
+  },
+  {
+    "frame_id": 65,
+    "keypoint_xyz": {
+      "left_ear": [
+        -113,
+        166,
+        882
+      ],
+      "right_ear": [
+        3,
+        158,
+        927
+      ],
+      "left_shoulder": [
+        -224,
+        263,
+        1196
+      ],
+      "right_shoulder": [
+        119,
+        264,
+        1125
+      ],
+      "left_elbow": [
+        -280,
+        209,
+        1395
+      ],
+      "right_elbow": [
+        284,
+        218,
+        1332
+      ],
+      "left_wrist": [
+        -292,
+        34,
+        1644
+      ],
+      "right_wrist": [
+        403,
+        36,
+        1517
+      ]
+    }
+  },
+  {
+    "frame_id": 66,
+    "keypoint_xyz": {
+      "left_ear": [
+        -118,
+        165,
+        886
+      ],
+      "right_ear": [
+        3,
+        155,
+        923
+      ],
+      "left_shoulder": [
+        -219,
+        269,
+        1187
+      ],
+      "right_shoulder": [
+        111,
+        270,
+        1117
+      ],
+      "left_elbow": [
+        -280,
+        211,
+        1387
+      ],
+      "right_elbow": [
+        280,
+        218,
+        1332
+      ],
+      "left_wrist": [
+        -297,
+        53,
+        1628
+      ],
+      "right_wrist": [
+        404,
+        41,
+        1513
+      ]
+    }
+  },
+  {
+    "frame_id": 67,
+    "keypoint_xyz": {
+      "left_ear": [
+        -108,
+        185,
+        889
+      ],
+      "right_ear": [
+        11,
+        158,
+        952
+      ],
+      "left_shoulder": [
+        -220,
+        267,
+        1189
+      ],
+      "right_shoulder": [
+        129,
+        257,
+        1131
+      ],
+      "left_elbow": [
+        -286,
+        200,
+        1415
+      ],
+      "right_elbow": [
+        296,
+        199,
+        1360
+      ],
+      "left_wrist": [
+        -283,
+        -19,
+        1609
+      ],
+      "right_wrist": [
+        418,
+        28,
+        1523
+      ]
+    }
+  },
+  {
+    "frame_id": 68,
+    "keypoint_xyz": {
+      "left_ear": [
+        -105,
+        165,
+        881
+      ],
+      "right_ear": [
+        9,
+        158,
+        941
+      ],
+      "left_shoulder": [
+        -225,
+        255,
+        1197
+      ],
+      "right_shoulder": [
+        127,
+        259,
+        1125
+      ],
+      "left_elbow": [
+        -284,
+        196,
+        1419
+      ],
+      "right_elbow": [
+        298,
+        197,
+        1354
+      ],
+      "left_wrist": [
+        -279,
+        -23,
+        1607
+      ],
+      "right_wrist": [
+        426,
+        23,
+        1524
+      ]
+    }
+  },
+  {
+    "frame_id": 69,
+    "keypoint_xyz": {
+      "left_ear": [
+        -107,
+        164,
+        884
+      ],
+      "right_ear": [
+        7,
+        152,
+        927
+      ],
+      "left_shoulder": [
+        -221,
+        257,
+        1194
+      ],
+      "right_shoulder": [
+        133,
+        253,
+        1133
+      ],
+      "left_elbow": [
+        -283,
+        195,
+        1422
+      ],
+      "right_elbow": [
+        305,
+        190,
+        1371
+      ],
+      "left_wrist": [
+        -285,
+        -26,
+        1605
+      ],
+      "right_wrist": [
+        430,
+        26,
+        1525
+      ]
+    }
+  },
+  {
+    "frame_id": 70,
+    "keypoint_xyz": {
+      "left_ear": [
+        -101,
+        112,
+        885
+      ],
+      "right_ear": [
+        11,
+        127,
+        941
+      ],
+      "left_shoulder": [
+        -217,
+        254,
+        1192
+      ],
+      "right_shoulder": [
+        171,
+        246,
+        1155
+      ],
+      "left_elbow": [
+        -272,
+        212,
+        1376
+      ],
+      "right_elbow": [
+        313,
+        182,
+        1383
+      ],
+      "left_wrist": [
+        -296,
+        29,
+        1642
+      ],
+      "right_wrist": [
+        435,
+        27,
+        1531
+      ]
+    }
+  },
+  {
+    "frame_id": 71,
+    "keypoint_xyz": {
+      "left_ear": [
+        -94,
+        162,
+        881
+      ],
+      "right_ear": [
+        17,
+        136,
+        954
+      ],
+      "left_shoulder": [
+        -213,
+        264,
+        1183
+      ],
+      "right_shoulder": [
+        168,
+        247,
+        1151
+      ],
+      "left_elbow": [
+        -268,
+        213,
+        1375
+      ],
+      "right_elbow": [
+        315,
+        180,
+        1384
+      ],
+      "left_wrist": [
+        -297,
+        36,
+        1641
+      ],
+      "right_wrist": [
+        436,
+        28,
+        1529
+      ]
+    }
+  },
+  {
+    "frame_id": 72,
+    "keypoint_xyz": {
+      "left_ear": [
+        -100,
+        164,
+        883
+      ],
+      "right_ear": [
+        13,
+        149,
+        933
+      ],
+      "left_shoulder": [
+        -210,
+        266,
+        1181
+      ],
+      "right_shoulder": [
+        159,
+        252,
+        1144
+      ],
+      "left_elbow": [
+        -253,
+        216,
+        1285
+      ],
+      "right_elbow": [
+        307,
+        186,
+        1370
+      ],
+      "left_wrist": [
+        -291,
+        82,
+        1605
+      ],
+      "right_wrist": [
+        434,
+        28,
+        1530
+      ]
+    }
+  },
+  {
+    "frame_id": 73,
+    "keypoint_xyz": {
+      "left_ear": [
+        -101,
+        114,
+        887
+      ],
+      "right_ear": [
+        10,
+        132,
+        928
+      ],
+      "left_shoulder": [
+        -214,
+        258,
+        1190
+      ],
+      "right_shoulder": [
+        161,
+        250,
+        1145
+      ],
+      "left_elbow": [
+        -246,
+        217,
+        1266
+      ],
+      "right_elbow": [
+        312,
+        187,
+        1375
+      ],
+      "left_wrist": [
+        -291,
+        77,
+        1610
+      ],
+      "right_wrist": [
+        437,
+        27,
+        1530
+      ]
+    }
+  },
+  {
+    "frame_id": 74,
+    "keypoint_xyz": {
+      "left_ear": [
+        -109,
+        189,
+        897
+      ],
+      "right_ear": [
+        6,
+        159,
+        911
+      ],
+      "left_shoulder": [
+        -218,
+        254,
+        1197
+      ],
+      "right_shoulder": [
+        128,
+        254,
+        1129
+      ],
+      "left_elbow": [
+        -267,
+        207,
+        1382
+      ],
+      "right_elbow": [
+        295,
+        195,
+        1329
+      ],
+      "left_wrist": [
+        -287,
+        72,
+        1614
+      ],
+      "right_wrist": [
+        432,
+        30,
+        1527
+      ]
+    }
+  },
+  {
+    "frame_id": 75,
+    "keypoint_xyz": {
+      "left_ear": [
+        -107,
+        199,
+        898
+      ],
+      "right_ear": [
+        10,
+        135,
+        920
+      ],
+      "left_shoulder": [
+        -213,
+        259,
+        1190
+      ],
+      "right_shoulder": [
+        164,
+        255,
+        1141
+      ],
+      "left_elbow": [
+        -259,
+        218,
+        1341
+      ],
+      "right_elbow": [
+        311,
+        191,
+        1366
+      ],
+      "left_wrist": [
+        -289,
+        82,
+        1608
+      ],
+      "right_wrist": [
+        431,
+        35,
+        1526
+      ]
+    }
+  },
+  {
+    "frame_id": 76,
+    "keypoint_xyz": {
+      "left_ear": [
+        -99,
+        169,
+        884
+      ],
+      "right_ear": [
+        12,
+        162,
+        922
+      ],
+      "left_shoulder": [
+        -218,
+        256,
+        1198
+      ],
+      "right_shoulder": [
+        144,
+        261,
+        1129
+      ],
+      "left_elbow": [
+        -238,
+        225,
+        1250
+      ],
+      "right_elbow": [
+        291,
+        210,
+        1323
+      ],
+      "left_wrist": [
+        -287,
+        112,
+        1577
+      ],
+      "right_wrist": [
+        428,
+        40,
+        1526
+      ]
+    }
+  },
+  {
+    "frame_id": 77,
+    "keypoint_xyz": {
+      "left_ear": [
+        -111,
+        129,
+        884
+      ],
+      "right_ear": [
+        5,
+        163,
+        906
+      ],
+      "left_shoulder": [
+        -217,
+        258,
+        1198
+      ],
+      "right_shoulder": [
+        106,
+        275,
+        1112
+      ],
+      "left_elbow": [
+        -254,
+        219,
+        1329
+      ],
+      "right_elbow": [
+        280,
+        223,
+        1320
+      ],
+      "left_wrist": [
+        -291,
+        80,
+        1605
+      ],
+      "right_wrist": [
+        421,
+        54,
+        1518
+      ]
+    }
+  },
+  {
+    "frame_id": 78,
+    "keypoint_xyz": {
+      "left_ear": [
+        -114,
+        170,
+        881
+      ],
+      "right_ear": [
+        10,
+        164,
+        918
+      ],
+      "left_shoulder": [
+        -211,
+        265,
+        1188
+      ],
+      "right_shoulder": [
+        153,
+        273,
+        1128
+      ],
+      "left_elbow": [
+        -236,
+        230,
+        1247
+      ],
+      "right_elbow": [
+        292,
+        217,
+        1326
+      ],
+      "left_wrist": [
+        -285,
+        103,
+        1577
+      ],
+      "right_wrist": [
+        419,
+        59,
+        1521
+      ]
+    }
+  },
+  {
+    "frame_id": 79,
+    "keypoint_xyz": {
+      "left_ear": [
+        -122,
+        166,
+        883
+      ],
+      "right_ear": [
+        9,
+        169,
+        911
+      ],
+      "left_shoulder": [
+        -217,
+        262,
+        1196
+      ],
+      "right_shoulder": [
+        135,
+        282,
+        1118
+      ],
+      "left_elbow": [
+        -241,
+        215,
+        1296
+      ],
+      "right_elbow": [
+        279,
+        235,
+        1319
+      ],
+      "left_wrist": [
+        -278,
+        95,
+        1586
+      ],
+      "right_wrist": [
+        410,
+        74,
+        1512
+      ]
+    }
+  },
+  {
+    "frame_id": 80,
+    "keypoint_xyz": {
+      "left_ear": [
+        -133,
+        209,
+        902
+      ],
+      "right_ear": [
+        4,
+        165,
+        898
+      ],
+      "left_shoulder": [
+        -215,
+        262,
+        1195
+      ],
+      "right_shoulder": [
+        108,
+        291,
+        1108
+      ],
+      "left_elbow": [
+        -247,
+        217,
+        1350
+      ],
+      "right_elbow": [
+        267,
+        258,
+        1303
+      ],
+      "left_wrist": [
+        -276,
+        75,
+        1601
+      ],
+      "right_wrist": [
+        399,
+        93,
+        1501
+      ]
+    }
+  },
+  {
+    "frame_id": 81,
+    "keypoint_xyz": {
+      "left_ear": [
+        -138,
+        220,
+        913
+      ],
+      "right_ear": [
+        9,
+        176,
+        902
+      ],
+      "left_shoulder": [
+        -215,
+        272,
+        1186
+      ],
+      "right_shoulder": [
+        113,
+        294,
+        1107
+      ],
+      "left_elbow": [
+        -258,
+        191,
+        1418
+      ],
+      "right_elbow": [
+        280,
+        255,
+        1315
+      ],
+      "left_wrist": [
+        -284,
+        39,
+        1635
+      ],
+      "right_wrist": [
+        400,
+        93,
+        1508
+      ]
+    }
+  },
+  {
+    "frame_id": 82,
+    "keypoint_xyz": {
+      "left_ear": [
+        -133,
+        219,
+        894
+      ],
+      "right_ear": [
+        9,
+        181,
+        896
+      ],
+      "left_shoulder": [
+        -211,
+        280,
+        1181
+      ],
+      "right_shoulder": [
+        111,
+        306,
+        1104
+      ],
+      "left_elbow": [
+        -261,
+        193,
+        1421
+      ],
+      "right_elbow": [
+        261,
+        287,
+        1289
+      ],
+      "left_wrist": [
+        -289,
+        39,
+        1643
+      ],
+      "right_wrist": [
+        386,
+        117,
+        1498
+      ]
+    }
+  },
+  {
+    "frame_id": 83,
+    "keypoint_xyz": {
+      "left_ear": [
+        -129,
+        220,
+        884
+      ],
+      "right_ear": [
+        19,
+        196,
+        905
+      ],
+      "left_shoulder": [
+        -207,
+        284,
+        1173
+      ],
+      "right_shoulder": [
+        114,
+        317,
+        1102
+      ],
+      "left_elbow": [
+        -257,
+        200,
+        1408
+      ],
+      "right_elbow": [
+        264,
+        297,
+        1290
+      ],
+      "left_wrist": [
+        -289,
+        41,
+        1645
+      ],
+      "right_wrist": [
+        379,
+        125,
+        1496
+      ]
+    }
+  },
+  {
+    "frame_id": 84,
+    "keypoint_xyz": {
+      "left_ear": [
+        -129,
+        230,
+        885
+      ],
+      "right_ear": [
+        30,
+        214,
+        929
+      ],
+      "left_shoulder": [
+        -205,
+        300,
+        1167
+      ],
+      "right_shoulder": [
+        117,
+        330,
+        1098
+      ],
+      "left_elbow": [
+        -253,
+        217,
+        1378
+      ],
+      "right_elbow": [
+        258,
+        308,
+        1278
+      ],
+      "left_wrist": [
+        -293,
+        50,
+        1646
+      ],
+      "right_wrist": [
+        377,
+        138,
+        1501
+      ]
+    }
+  },
+  {
+    "frame_id": 85,
+    "keypoint_xyz": {
+      "left_ear": [
+        -120,
+        221,
+        871
+      ],
+      "right_ear": [
+        34,
+        223,
+        923
+      ],
+      "left_shoulder": [
+        -203,
+        304,
+        1163
+      ],
+      "right_shoulder": [
+        123,
+        334,
+        1100
+      ],
+      "left_elbow": [
+        -251,
+        227,
+        1368
+      ],
+      "right_elbow": [
+        270,
+        316,
+        1297
+      ],
+      "left_wrist": [
+        -293,
+        61,
+        1640
+      ],
+      "right_wrist": [
+        371,
+        144,
+        1506
+      ]
+    }
+  },
+  {
+    "frame_id": 86,
+    "keypoint_xyz": {
+      "left_ear": [
+        -111,
+        227,
+        860
+      ],
+      "right_ear": [
+        39,
+        232,
+        917
+      ],
+      "left_shoulder": [
+        -196,
+        317,
+        1154
+      ],
+      "right_shoulder": [
+        135,
+        346,
+        1101
+      ],
+      "left_elbow": [
+        -249,
+        234,
+        1363
+      ],
+      "right_elbow": [
+        269,
+        323,
+        1299
+      ],
+      "left_wrist": [
+        -294,
+        66,
+        1635
+      ],
+      "right_wrist": [
+        360,
+        164,
+        1494
+      ]
+    }
+  },
+  {
+    "frame_id": 87,
+    "keypoint_xyz": {
+      "left_ear": [
+        -100,
+        234,
+        853
+      ],
+      "right_ear": [
+        53,
+        249,
+        966
+      ],
+      "left_shoulder": [
+        -188,
+        331,
+        1146
+      ],
+      "right_shoulder": [
+        145,
+        352,
+        1105
+      ],
+      "left_elbow": [
+        -245,
+        249,
+        1348
+      ],
+      "right_elbow": [
+        268,
+        329,
+        1300
+      ],
+      "left_wrist": [
+        -291,
+        75,
+        1629
+      ],
+      "right_wrist": [
+        354,
+        168,
+        1504
+      ]
+    }
+  },
+  {
+    "frame_id": 88,
+    "keypoint_xyz": {
+      "left_ear": [
+        -93,
+        234,
+        849
+      ],
+      "right_ear": [
+        58,
+        259,
+        954
+      ],
+      "left_shoulder": [
+        -195,
+        322,
+        1154
+      ],
+      "right_shoulder": [
+        154,
+        358,
+        1110
+      ],
+      "left_elbow": [
+        -238,
+        256,
+        1354
+      ],
+      "right_elbow": [
+        265,
+        339,
+        1291
+      ],
+      "left_wrist": [
+        -287,
+        81,
+        1623
+      ],
+      "right_wrist": [
+        341,
+        193,
+        1492
+      ]
+    }
+  },
+  {
+    "frame_id": 89,
+    "keypoint_xyz": {
+      "left_ear": [
+        -86,
+        240,
+        845
+      ],
+      "right_ear": [
+        62,
+        274,
+        937
+      ],
+      "left_shoulder": [
+        -197,
+        312,
+        1167
+      ],
+      "right_shoulder": [
+        158,
+        367,
+        1112
+      ],
+      "left_elbow": [
+        -243,
+        249,
+        1448
+      ],
+      "right_elbow": [
+        259,
+        350,
+        1272
+      ],
+      "left_wrist": [
+        -280,
+        90,
+        1616
+      ],
+      "right_wrist": [
+        336,
+        201,
+        1496
+      ]
+    }
+  },
+  {
+    "frame_id": 90,
+    "keypoint_xyz": {
+      "left_ear": [
+        -87,
+        270,
+        843
+      ],
+      "right_ear": [
+        69,
+        280,
+        934
+      ],
+      "left_shoulder": [
+        -195,
+        331,
+        1157
+      ],
+      "right_shoulder": [
+        167,
+        383,
+        1113
+      ],
+      "left_elbow": [
+        -237,
+        263,
+        1409
+      ],
+      "right_elbow": [
+        255,
+        356,
+        1263
+      ],
+      "left_wrist": [
+        -270,
+        120,
+        1595
+      ],
+      "right_wrist": [
+        329,
+        209,
+        1501
+      ]
+    }
+  },
+  {
+    "frame_id": 91,
+    "keypoint_xyz": {
+      "left_ear": [
+        -74,
+        270,
+        836
+      ],
+      "right_ear": [
+        72,
+        277,
+        916
+      ],
+      "left_shoulder": [
+        -192,
+        334,
+        1159
+      ],
+      "right_shoulder": [
+        167,
+        390,
+        1114
+      ],
+      "left_elbow": [
+        -228,
+        288,
+        1354
+      ],
+      "right_elbow": [
+        255,
+        368,
+        1260
+      ],
+      "left_wrist": [
+        -244,
+        162,
+        1563
+      ],
+      "right_wrist": [
+        320,
+        216,
+        1504
+      ]
+    }
+  },
+  {
+    "frame_id": 92,
+    "keypoint_xyz": {
+      "left_ear": [
+        -65,
+        309,
+        832
+      ],
+      "right_ear": [
+        71,
+        288,
+        882
+      ],
+      "left_shoulder": [
+        -185,
+        349,
+        1150
+      ],
+      "right_shoulder": [
+        152,
+        401,
+        1106
+      ],
+      "left_elbow": [
+        -207,
+        301,
+        1239
+      ],
+      "right_elbow": [
+        264,
+        366,
+        1300
+      ],
+      "left_wrist": [
+        -220,
+        197,
+        1549
+      ],
+      "right_wrist": [
+        314,
+        214,
+        1517
+      ]
+    }
+  },
+  {
+    "frame_id": 93,
+    "keypoint_xyz": {
+      "left_ear": [
+        -51,
+        314,
+        825
+      ],
+      "right_ear": [
+        70,
+        289,
+        863
+      ],
+      "left_shoulder": [
+        -171,
+        357,
+        1144
+      ],
+      "right_shoulder": [
+        150,
+        411,
+        1105
+      ],
+      "left_elbow": [
+        -205,
+        312,
+        1244
+      ],
+      "right_elbow": [
+        255,
+        380,
+        1277
+      ],
+      "left_wrist": [
+        -193,
+        208,
+        1553
+      ],
+      "right_wrist": [
+        304,
+        234,
+        1508
+      ]
+    }
+  },
+  {
+    "frame_id": 94,
+    "keypoint_xyz": {
+      "left_ear": [
+        -46,
+        321,
+        824
+      ],
+      "right_ear": [
+        69,
+        293,
+        851
+      ],
+      "left_shoulder": [
+        -178,
+        363,
+        1151
+      ],
+      "right_shoulder": [
+        163,
+        414,
+        1122
+      ],
+      "left_elbow": [
+        -210,
+        333,
+        1319
+      ],
+      "right_elbow": [
+        278,
+        384,
+        1416
+      ],
+      "left_wrist": [
+        -176,
+        206,
+        1539
+      ],
+      "right_wrist": [
+        289,
+        228,
+        1523
+      ]
+    }
+  },
+  {
+    "frame_id": 95,
+    "keypoint_xyz": {
+      "left_ear": [
+        -49,
+        351,
+        822
+      ],
+      "right_ear": [
+        70,
+        293,
+        844
+      ],
+      "left_shoulder": [
+        -180,
+        366,
+        1162
+      ],
+      "right_shoulder": [
+        171,
+        481,
+        1100
+      ],
+      "left_elbow": [
+        -172,
+        302,
+        1501
+      ],
+      "right_elbow": [
+        249,
+        396,
+        1289
+      ],
+      "left_wrist": [
+        -163,
+        194,
+        1534
+      ],
+      "right_wrist": [
+        278,
+        244,
+        1518
+      ]
+    }
+  },
+  {
+    "frame_id": 96,
+    "keypoint_xyz": {
+      "left_ear": [
+        -60,
+        277,
+        874
+      ],
+      "right_ear": [
+        70,
+        296,
+        847
+      ],
+      "left_shoulder": [
+        -173,
+        370,
+        1163
+      ],
+      "right_shoulder": [
+        175,
+        484,
+        1100
+      ],
+      "left_elbow": [
+        -188,
+        55,
+        1665
+      ],
+      "right_elbow": [
+        236,
+        371,
+        1273
+      ],
+      "left_wrist": [
+        -140,
+        200,
+        1526
+      ],
+      "right_wrist": [
+        263,
+        259,
+        1516
+      ]
+    }
+  },
+  {
+    "frame_id": 97,
+    "keypoint_xyz": {
+      "left_ear": [
+        -82,
+        359,
+        1112
+      ],
+      "right_ear": [
+        65,
+        296,
+        850
+      ],
+      "left_shoulder": [
+        -172,
+        377,
+        1165
+      ],
+      "right_shoulder": [
+        176,
+        493,
+        1099
+      ],
+      "left_elbow": [
+        -140,
+        321,
+        1291
+      ],
+      "right_elbow": [
+        221,
+        375,
+        1242
+      ],
+      "left_wrist": [
+        -111,
+        202,
+        1519
+      ],
+      "right_wrist": [
+        243,
+        271,
+        1521
+      ]
+    }
+  },
+  {
+    "frame_id": 98,
+    "keypoint_xyz": {
+      "left_ear": [
+        -46,
+        352,
+        826
+      ],
+      "right_ear": [
+        64,
+        309,
+        843
+      ],
+      "left_shoulder": [
+        -167,
+        392,
+        1154
+      ],
+      "right_shoulder": [
+        174,
+        487,
+        1100
+      ],
+      "left_elbow": [
+        -131,
+        344,
+        1384
+      ],
+      "right_elbow": [
+        219,
+        390,
+        1237
+      ],
+      "left_wrist": [
+        -80,
+        213,
+        1514
+      ],
+      "right_wrist": [
+        224,
+        279,
+        1530
+      ]
+    }
+  },
+  {
+    "frame_id": 99,
+    "keypoint_xyz": {
+      "left_ear": [
+        -39,
+        307,
+        859
+      ],
+      "right_ear": [
+        68,
+        313,
+        848
+      ],
+      "left_shoulder": [
+        -159,
+        401,
+        1151
+      ],
+      "right_shoulder": [
+        181,
+        485,
+        1105
+      ],
+      "left_elbow": [
+        -140,
+        358,
+        1398
+      ],
+      "right_elbow": [
+        216,
+        391,
+        1246
+      ],
+      "left_wrist": [
+        -66,
+        242,
+        1503
+      ],
+      "right_wrist": [
+        210,
+        290,
+        1526
+      ]
+    }
+  },
+  {
+    "frame_id": 100,
+    "keypoint_xyz": {
+      "left_ear": [
+        -48,
+        319,
+        912
+      ],
+      "right_ear": [
+        74,
+        321,
+        850
+      ],
+      "left_shoulder": [
+        -153,
+        402,
+        1152
+      ],
+      "right_shoulder": [
+        192,
+        483,
+        1112
+      ],
+      "left_elbow": [
+        -134,
+        364,
+        1447
+      ],
+      "right_elbow": [
+        210,
+        385,
+        1265
+      ],
+      "left_wrist": [
+        -54,
+        251,
+        1498
+      ],
+      "right_wrist": [
+        200,
+        292,
+        1525
+      ]
+    }
+  },
+  {
+    "frame_id": 101,
+    "keypoint_xyz": {
+      "left_ear": [
+        -44,
+        359,
+        835
+      ],
+      "right_ear": [
+        79,
+        330,
+        848
+      ],
+      "left_shoulder": [
+        -148,
+        421,
+        1136
+      ],
+      "right_shoulder": [
+        194,
+        484,
+        1118
+      ],
+      "left_elbow": [
+        -139,
+        369,
+        1454
+      ],
+      "right_elbow": [
+        203,
+        385,
+        1279
+      ],
+      "left_wrist": [
+        -38,
+        250,
+        1502
+      ],
+      "right_wrist": [
+        193,
+        299,
+        1519
+      ]
+    }
+  },
+  {
+    "frame_id": 102,
+    "keypoint_xyz": {
+      "left_ear": [
+        -44,
+        368,
+        841
+      ],
+      "right_ear": [
+        81,
+        339,
+        842
+      ],
+      "left_shoulder": [
+        -145,
+        424,
+        1138
+      ],
+      "right_shoulder": [
+        194,
+        489,
+        1117
+      ],
+      "left_elbow": [
+        -138,
+        365,
+        1457
+      ],
+      "right_elbow": [
+        225,
+        431,
+        1211
+      ],
+      "left_wrist": [
+        -30,
+        256,
+        1505
+      ],
+      "right_wrist": [
+        181,
+        305,
+        1518
+      ]
+    }
+  },
+  {
+    "frame_id": 103,
+    "keypoint_xyz": {
+      "left_ear": [
+        -44,
+        356,
+        848
+      ],
+      "right_ear": [
+        87,
+        334,
+        854
+      ],
+      "left_shoulder": [
+        -142,
+        429,
+        1136
+      ],
+      "right_shoulder": [
+        203,
+        492,
+        1125
+      ],
+      "left_elbow": [
+        -138,
+        370,
+        1458
+      ],
+      "right_elbow": [
+        221,
+        400,
+        1273
+      ],
+      "left_wrist": [
+        -32,
+        258,
+        1510
+      ],
+      "right_wrist": [
+        175,
+        301,
+        1520
+      ]
+    }
+  },
+  {
+    "frame_id": 104,
+    "keypoint_xyz": {
+      "left_ear": [
+        -49,
+        404,
+        1085
+      ],
+      "right_ear": [
+        86,
+        330,
+        862
+      ],
+      "left_shoulder": [
+        -138,
+        423,
+        1145
+      ],
+      "right_shoulder": [
+        201,
+        492,
+        1126
+      ],
+      "left_elbow": [
+        -136,
+        369,
+        1460
+      ],
+      "right_elbow": [
+        217,
+        403,
+        1284
+      ],
+      "left_wrist": [
+        -35,
+        264,
+        1514
+      ],
+      "right_wrist": [
+        179,
+        305,
+        1511
+      ]
+    }
+  },
+  {
+    "frame_id": 105,
+    "keypoint_xyz": {
+      "left_ear": [
+        -43,
+        357,
+        877
+      ],
+      "right_ear": [
+        83,
+        332,
+        863
+      ],
+      "left_shoulder": [
+        -144,
+        439,
+        1132
+      ],
+      "right_shoulder": [
+        205,
+        497,
+        1126
+      ],
+      "left_elbow": [
+        -145,
+        377,
+        1455
+      ],
+      "right_elbow": [
+        228,
+        408,
+        1282
+      ],
+      "left_wrist": [
+        -42,
+        268,
+        1516
+      ],
+      "right_wrist": [
+        191,
+        302,
+        1502
+      ]
+    }
+  },
+  {
+    "frame_id": 106,
+    "keypoint_xyz": {
+      "left_ear": [
+        -38,
+        355,
+        871
+      ],
+      "right_ear": [
+        84,
+        334,
+        861
+      ],
+      "left_shoulder": [
+        -140,
+        447,
+        1127
+      ],
+      "right_shoulder": [
+        205,
+        497,
+        1129
+      ],
+      "left_elbow": [
+        -193,
+        390,
+        1423
+      ],
+      "right_elbow": [
+        240,
+        428,
+        1425
+      ],
+      "left_wrist": [
+        -52,
+        274,
+        1517
+      ],
+      "right_wrist": [
+        193,
+        277,
+        1509
+      ]
+    }
+  },
+  {
+    "frame_id": 107,
+    "keypoint_xyz": {
+      "left_ear": [
+        -38,
+        360,
+        876
+      ],
+      "right_ear": [
+        86,
+        338,
+        859
+      ],
+      "left_shoulder": [
+        -135,
+        448,
+        1127
+      ],
+      "right_shoulder": [
+        207,
+        500,
+        1130
+      ],
+      "left_elbow": [
+        -199,
+        394,
+        1421
+      ],
+      "right_elbow": [
+        240,
+        426,
+        1425
+      ],
+      "left_wrist": [
+        -66,
+        281,
+        1516
+      ],
+      "right_wrist": [
+        214,
+        257,
+        1516
+      ]
+    }
+  },
+  {
+    "frame_id": 108,
+    "keypoint_xyz": {
+      "left_ear": [
+        -35,
+        362,
+        864
+      ],
+      "right_ear": [
+        89,
+        342,
+        861
+      ],
+      "left_shoulder": [
+        -136,
+        449,
+        1128
+      ],
+      "right_shoulder": [
+        205,
+        499,
+        1129
+      ],
+      "left_elbow": [
+        -200,
+        399,
+        1398
+      ],
+      "right_elbow": [
+        251,
+        432,
+        1418
+      ],
+      "left_wrist": [
+        -81,
+        290,
+        1513
+      ],
+      "right_wrist": [
+        238,
+        262,
+        1500
+      ]
+    }
+  },
+  {
+    "frame_id": 109,
+    "keypoint_xyz": {
+      "left_ear": [
+        -39,
+        374,
+        869
+      ],
+      "right_ear": [
+        87,
+        342,
+        858
+      ],
+      "left_shoulder": [
+        -138,
+        454,
+        1127
+      ],
+      "right_shoulder": [
+        201,
+        500,
+        1125
+      ],
+      "left_elbow": [
+        -198,
+        408,
+        1329
+      ],
+      "right_elbow": [
+        253,
+        430,
+        1366
+      ],
+      "left_wrist": [
+        -96,
+        297,
+        1509
+      ],
+      "right_wrist": [
+        266,
+        286,
+        1489
+      ]
+    }
+  },
+  {
+    "frame_id": 110,
+    "keypoint_xyz": {
+      "left_ear": [
+        -34,
+        366,
+        860
+      ],
+      "right_ear": [
+        91,
+        345,
+        857
+      ],
+      "left_shoulder": [
+        -146,
+        460,
+        1125
+      ],
+      "right_shoulder": [
+        204,
+        500,
+        1126
+      ],
+      "left_elbow": [
+        -207,
+        413,
+        1330
+      ],
+      "right_elbow": [
+        269,
+        417,
+        1425
+      ],
+      "left_wrist": [
+        -120,
+        316,
+        1492
+      ],
+      "right_wrist": [
+        292,
+        262,
+        1506
+      ]
+    }
+  },
+  {
+    "frame_id": 111,
+    "keypoint_xyz": {
+      "left_ear": [
+        -32,
+        365,
+        855
+      ],
+      "right_ear": [
+        86,
+        346,
+        847
+      ],
+      "left_shoulder": [
+        -144,
+        465,
+        1123
+      ],
+      "right_shoulder": [
+        202,
+        502,
+        1124
+      ],
+      "left_elbow": [
+        -209,
+        424,
+        1315
+      ],
+      "right_elbow": [
+        276,
+        431,
+        1422
+      ],
+      "left_wrist": [
+        -129,
+        297,
+        1511
+      ],
+      "right_wrist": [
+        296,
+        264,
+        1495
+      ]
+    }
+  },
+  {
+    "frame_id": 112,
+    "keypoint_xyz": {
+      "left_ear": [
+        -31,
+        366,
+        847
+      ],
+      "right_ear": [
+        89,
+        348,
+        848
+      ],
+      "left_shoulder": [
+        -147,
+        470,
+        1120
+      ],
+      "right_shoulder": [
+        200,
+        500,
+        1121
+      ],
+      "left_elbow": [
+        -214,
+        424,
+        1323
+      ],
+      "right_elbow": [
+        282,
+        427,
+        1423
+      ],
+      "left_wrist": [
+        -140,
+        300,
+        1509
+      ],
+      "right_wrist": [
+        305,
+        261,
+        1495
+      ]
+    }
+  },
+  {
+    "frame_id": 113,
+    "keypoint_xyz": {
+      "left_ear": [
+        -37,
+        373,
+        859
+      ],
+      "right_ear": [
+        89,
+        352,
+        849
+      ],
+      "left_shoulder": [
+        -148,
+        469,
+        1120
+      ],
+      "right_shoulder": [
+        200,
+        502,
+        1120
+      ],
+      "left_elbow": [
+        -219,
+        430,
+        1315
+      ],
+      "right_elbow": [
+        286,
+        436,
+        1425
+      ],
+      "left_wrist": [
+        -147,
+        292,
+        1516
+      ],
+      "right_wrist": [
+        303,
+        261,
+        1496
+      ]
+    }
+  },
+  {
+    "frame_id": 114,
+    "keypoint_xyz": {
+      "left_ear": [
+        -31,
+        391,
+        831
+      ],
+      "right_ear": [
+        86,
+        367,
+        824
+      ],
+      "left_shoulder": [
+        -149,
+        470,
+        1120
+      ],
+      "right_shoulder": [
+        205,
+        497,
+        1126
+      ],
+      "left_elbow": [
+        -218,
+        429,
+        1319
+      ],
+      "right_elbow": [
+        285,
+        433,
+        1428
+      ],
+      "left_wrist": [
+        -160,
+        301,
+        1512
+      ],
+      "right_wrist": [
+        305,
+        261,
+        1496
+      ]
+    }
+  },
+  {
+    "frame_id": 115,
+    "keypoint_xyz": {
+      "left_ear": [
+        -35,
+        392,
+        831
+      ],
+      "right_ear": [
+        84,
+        367,
+        822
+      ],
+      "left_shoulder": [
+        -145,
+        471,
+        1116
+      ],
+      "right_shoulder": [
+        202,
+        497,
+        1123
+      ],
+      "left_elbow": [
+        -218,
+        432,
+        1321
+      ],
+      "right_elbow": [
+        280,
+        440,
+        1404
+      ],
+      "left_wrist": [
+        -183,
+        288,
+        1538
+      ],
+      "right_wrist": [
+        302,
+        262,
+        1500
+      ]
+    }
+  },
+  {
+    "frame_id": 116,
+    "keypoint_xyz": {
+      "left_ear": [
+        -37,
+        392,
+        833
+      ],
+      "right_ear": [
+        83,
+        372,
+        817
+      ],
+      "left_shoulder": [
+        -146,
+        478,
+        1114
+      ],
+      "right_shoulder": [
+        202,
+        498,
+        1120
+      ],
+      "left_elbow": [
+        -218,
+        434,
+        1313
+      ],
+      "right_elbow": [
+        283,
+        438,
+        1421
+      ],
+      "left_wrist": [
+        -194,
+        281,
+        1547
+      ],
+      "right_wrist": [
+        301,
+        264,
+        1502
+      ]
+    }
+  },
+  {
+    "frame_id": 117,
+    "keypoint_xyz": {
+      "left_ear": [
+        -33,
+        383,
+        828
+      ],
+      "right_ear": [
+        84,
+        349,
+        838
+      ],
+      "left_shoulder": [
+        -143,
+        479,
+        1110
+      ],
+      "right_shoulder": [
+        204,
+        492,
+        1124
+      ],
+      "left_elbow": [
+        -221,
+        436,
+        1304
+      ],
+      "right_elbow": [
+        281,
+        433,
+        1433
+      ],
+      "left_wrist": [
+        -211,
+        280,
+        1561
+      ],
+      "right_wrist": [
+        293,
+        265,
+        1508
+      ]
+    }
+  },
+  {
+    "frame_id": 118,
+    "keypoint_xyz": {
+      "left_ear": [
+        -36,
+        383,
+        828
+      ],
+      "right_ear": [
+        80,
+        374,
+        815
+      ],
+      "left_shoulder": [
+        -144,
+        485,
+        1108
+      ],
+      "right_shoulder": [
+        200,
+        494,
+        1120
+      ],
+      "left_elbow": [
+        -222,
+        433,
+        1316
+      ],
+      "right_elbow": [
+        277,
+        433,
+        1430
+      ],
+      "left_wrist": [
+        -211,
+        279,
+        1538
+      ],
+      "right_wrist": [
+        289,
+        264,
+        1513
+      ]
+    }
+  },
+  {
+    "frame_id": 119,
+    "keypoint_xyz": {
+      "left_ear": [
+        -35,
+        390,
+        826
+      ],
+      "right_ear": [
+        81,
+        371,
+        812
+      ],
+      "left_shoulder": [
+        -141,
+        477,
+        1109
+      ],
+      "right_shoulder": [
+        205,
+        485,
+        1125
+      ],
+      "left_elbow": [
+        -229,
+        432,
+        1320
+      ],
+      "right_elbow": [
+        272,
+        426,
+        1440
+      ],
+      "left_wrist": [
+        -219,
+        279,
+        1536
+      ],
+      "right_wrist": [
+        281,
+        270,
+        1515
+      ]
+    }
+  },
+  {
+    "frame_id": 120,
+    "keypoint_xyz": {
+      "left_ear": [
+        -34,
+        385,
+        822
+      ],
+      "right_ear": [
+        81,
+        361,
+        820
+      ],
+      "left_shoulder": [
+        -139,
+        475,
+        1109
+      ],
+      "right_shoulder": [
+        199,
+        487,
+        1120
+      ],
+      "left_elbow": [
+        -231,
+        430,
+        1329
+      ],
+      "right_elbow": [
+        269,
+        428,
+        1432
+      ],
+      "left_wrist": [
+        -226,
+        281,
+        1529
+      ],
+      "right_wrist": [
+        271,
+        273,
+        1517
+      ]
+    }
+  },
+  {
+    "frame_id": 121,
+    "keypoint_xyz": {
+      "left_ear": [
+        -39,
+        387,
+        826
+      ],
+      "right_ear": [
+        75,
+        373,
+        809
+      ],
+      "left_shoulder": [
+        -143,
+        477,
+        1109
+      ],
+      "right_shoulder": [
+        199,
+        488,
+        1119
+      ],
+      "left_elbow": [
+        -232,
+        428,
+        1328
+      ],
+      "right_elbow": [
+        254,
+        424,
+        1419
+      ],
+      "left_wrist": [
+        -234,
+        275,
+        1533
+      ],
+      "right_wrist": [
+        263,
+        271,
+        1524
+      ]
+    }
+  },
+  {
+    "frame_id": 122,
+    "keypoint_xyz": {
+      "left_ear": [
+        -40,
+        388,
+        823
+      ],
+      "right_ear": [
+        74,
+        350,
+        827
+      ],
+      "left_shoulder": [
+        -146,
+        470,
+        1113
+      ],
+      "right_shoulder": [
+        197,
+        494,
+        1114
+      ],
+      "left_elbow": [
+        -240,
+        427,
+        1338
+      ],
+      "right_elbow": [
+        226,
+        391,
+        1257
+      ],
+      "left_wrist": [
+        -247,
+        273,
+        1534
+      ],
+      "right_wrist": [
+        260,
+        277,
+        1525
+      ]
+    }
+  },
+  {
+    "frame_id": 123,
+    "keypoint_xyz": {
+      "left_ear": [
+        -39,
+        383,
+        821
+      ],
+      "right_ear": [
+        73,
+        368,
+        808
+      ],
+      "left_shoulder": [
+        -143,
+        470,
+        1112
+      ],
+      "right_shoulder": [
+        196,
+        487,
+        1114
+      ],
+      "left_elbow": [
+        -252,
+        427,
+        1395
+      ],
+      "right_elbow": [
+        224,
+        385,
+        1282
+      ],
+      "left_wrist": [
+        -253,
+        268,
+        1533
+      ],
+      "right_wrist": [
+        253,
+        278,
+        1534
+      ]
+    }
+  },
+  {
+    "frame_id": 124,
+    "keypoint_xyz": {
+      "left_ear": [
+        -40,
+        380,
+        822
+      ],
+      "right_ear": [
+        69,
+        363,
+        810
+      ],
+      "left_shoulder": [
+        -151,
+        472,
+        1112
+      ],
+      "right_shoulder": [
+        191,
+        488,
+        1111
+      ],
+      "left_elbow": [
+        -254,
+        425,
+        1391
+      ],
+      "right_elbow": [
+        218,
+        384,
+        1257
+      ],
+      "left_wrist": [
+        -260,
+        260,
+        1533
+      ],
+      "right_wrist": [
+        248,
+        283,
+        1532
+      ]
+    }
+  },
+  {
+    "frame_id": 125,
+    "keypoint_xyz": {
+      "left_ear": [
+        -46,
+        381,
+        825
+      ],
+      "right_ear": [
+        68,
+        366,
+        807
+      ],
+      "left_shoulder": [
+        -155,
+        467,
+        1115
+      ],
+      "right_shoulder": [
+        193,
+        481,
+        1112
+      ],
+      "left_elbow": [
+        -258,
+        418,
+        1399
+      ],
+      "right_elbow": [
+        216,
+        388,
+        1253
+      ],
+      "left_wrist": [
+        -269,
+        249,
+        1538
+      ],
+      "right_wrist": [
+        242,
+        290,
+        1527
+      ]
+    }
+  },
+  {
+    "frame_id": 126,
+    "keypoint_xyz": {
+      "left_ear": [
+        -47,
+        383,
+        828
+      ],
+      "right_ear": [
+        65,
+        365,
+        805
+      ],
+      "left_shoulder": [
+        -153,
+        473,
+        1110
+      ],
+      "right_shoulder": [
+        189,
+        487,
+        1109
+      ],
+      "left_elbow": [
+        -258,
+        417,
+        1389
+      ],
+      "right_elbow": [
+        213,
+        386,
+        1252
+      ],
+      "left_wrist": [
+        -270,
+        245,
+        1535
+      ],
+      "right_wrist": [
+        235,
+        295,
+        1524
+      ]
+    }
+  },
+  {
+    "frame_id": 127,
+    "keypoint_xyz": {
+      "left_ear": [
+        -45,
+        374,
+        822
+      ],
+      "right_ear": [
+        67,
+        363,
+        809
+      ],
+      "left_shoulder": [
+        -152,
+        475,
+        1109
+      ],
+      "right_shoulder": [
+        190,
+        482,
+        1110
+      ],
+      "left_elbow": [
+        -261,
+        411,
+        1394
+      ],
+      "right_elbow": [
+        211,
+        388,
+        1249
+      ],
+      "left_wrist": [
+        -275,
+        245,
+        1532
+      ],
+      "right_wrist": [
+        232,
+        294,
+        1529
+      ]
+    }
+  },
+  {
+    "frame_id": 128,
+    "keypoint_xyz": {
+      "left_ear": [
+        -49,
+        371,
+        823
+      ],
+      "right_ear": [
+        63,
+        362,
+        807
+      ],
+      "left_shoulder": [
+        -155,
+        475,
+        1107
+      ],
+      "right_shoulder": [
+        184,
+        489,
+        1105
+      ],
+      "left_elbow": [
+        -260,
+        413,
+        1377
+      ],
+      "right_elbow": [
+        209,
+        391,
+        1250
+      ],
+      "left_wrist": [
+        -278,
+        240,
+        1533
+      ],
+      "right_wrist": [
+        233,
+        298,
+        1525
+      ]
+    }
+  },
+  {
+    "frame_id": 129,
+    "keypoint_xyz": {
+      "left_ear": [
+        -49,
+        376,
+        824
+      ],
+      "right_ear": [
+        61,
+        363,
+        802
+      ],
+      "left_shoulder": [
+        -153,
+        480,
+        1104
+      ],
+      "right_shoulder": [
+        186,
+        486,
+        1107
+      ],
+      "left_elbow": [
+        -260,
+        411,
+        1381
+      ],
+      "right_elbow": [
+        208,
+        391,
+        1246
+      ],
+      "left_wrist": [
+        -280,
+        238,
+        1534
+      ],
+      "right_wrist": [
+        228,
+        304,
+        1522
+      ]
+    }
+  },
+  {
+    "frame_id": 130,
+    "keypoint_xyz": {
+      "left_ear": [
+        -50,
+        375,
+        821
+      ],
+      "right_ear": [
+        63,
+        364,
+        808
+      ],
+      "left_shoulder": [
+        -154,
+        476,
+        1106
+      ],
+      "right_shoulder": [
+        185,
+        480,
+        1108
+      ],
+      "left_elbow": [
+        -261,
+        409,
+        1387
+      ],
+      "right_elbow": [
+        206,
+        392,
+        1247
+      ],
+      "left_wrist": [
+        -281,
+        227,
+        1537
+      ],
+      "right_wrist": [
+        228,
+        300,
+        1525
+      ]
+    }
+  },
+  {
+    "frame_id": 131,
+    "keypoint_xyz": {
+      "left_ear": [
+        -48,
+        372,
+        819
+      ],
+      "right_ear": [
+        61,
+        362,
+        806
+      ],
+      "left_shoulder": [
+        -158,
+        477,
+        1107
+      ],
+      "right_shoulder": [
+        185,
+        481,
+        1108
+      ],
+      "left_elbow": [
+        -263,
+        407,
+        1390
+      ],
+      "right_elbow": [
+        206,
+        389,
+        1250
+      ],
+      "left_wrist": [
+        -283,
+        227,
+        1539
+      ],
+      "right_wrist": [
+        227,
+        292,
+        1528
+      ]
+    }
+  },
+  {
+    "frame_id": 132,
+    "keypoint_xyz": {
+      "left_ear": [
+        -51,
+        375,
+        821
+      ],
+      "right_ear": [
+        61,
+        365,
+        804
+      ],
+      "left_shoulder": [
+        -155,
+        477,
+        1102
+      ],
+      "right_shoulder": [
+        180,
+        483,
+        1105
+      ],
+      "left_elbow": [
+        -264,
+        407,
+        1387
+      ],
+      "right_elbow": [
+        206,
+        382,
+        1256
+      ],
+      "left_wrist": [
+        -284,
+        232,
+        1536
+      ],
+      "right_wrist": [
+        227,
+        296,
+        1525
+      ]
+    }
+  },
+  {
+    "frame_id": 133,
+    "keypoint_xyz": {
+      "left_ear": [
+        -52,
+        373,
+        820
+      ],
+      "right_ear": [
+        62,
+        363,
+        807
+      ],
+      "left_shoulder": [
+        -155,
+        478,
+        1102
+      ],
+      "right_shoulder": [
+        183,
+        478,
+        1109
+      ],
+      "left_elbow": [
+        -261,
+        409,
+        1375
+      ],
+      "right_elbow": [
+        210,
+        392,
+        1243
+      ],
+      "left_wrist": [
+        -283,
+        235,
+        1533
+      ],
+      "right_wrist": [
+        228,
+        298,
+        1524
+      ]
+    }
+  },
+  {
+    "frame_id": 134,
+    "keypoint_xyz": {
+      "left_ear": [
+        -56,
+        370,
+        824
+      ],
+      "right_ear": [
+        60,
+        360,
+        806
+      ],
+      "left_shoulder": [
+        -159,
+        474,
+        1106
+      ],
+      "right_shoulder": [
+        182,
+        479,
+        1108
+      ],
+      "left_elbow": [
+        -259,
+        408,
+        1362
+      ],
+      "right_elbow": [
+        209,
+        397,
+        1236
+      ],
+      "left_wrist": [
+        -281,
+        243,
+        1531
+      ],
+      "right_wrist": [
+        231,
+        306,
+        1521
+      ]
+    }
+  },
+  {
+    "frame_id": 135,
+    "keypoint_xyz": {
+      "left_ear": [
+        -53,
+        368,
+        821
+      ],
+      "right_ear": [
+        59,
+        356,
+        812
+      ],
+      "left_shoulder": [
+        -159,
+        475,
+        1103
+      ],
+      "right_shoulder": [
+        179,
+        482,
+        1106
+      ],
+      "left_elbow": [
+        -260,
+        409,
+        1358
+      ],
+      "right_elbow": [
+        208,
+        389,
+        1246
+      ],
+      "left_wrist": [
+        -283,
+        243,
+        1531
+      ],
+      "right_wrist": [
+        228,
+        295,
+        1526
+      ]
+    }
+  },
+  {
+    "frame_id": 136,
+    "keypoint_xyz": {
+      "left_ear": [
+        -54,
+        370,
+        822
+      ],
+      "right_ear": [
+        58,
+        359,
+        808
+      ],
+      "left_shoulder": [
+        -160,
+        474,
+        1106
+      ],
+      "right_shoulder": [
+        179,
+        481,
+        1106
+      ],
+      "left_elbow": [
+        -256,
+        408,
+        1345
+      ],
+      "right_elbow": [
+        207,
+        386,
+        1246
+      ],
+      "left_wrist": [
+        -281,
+        244,
+        1530
+      ],
+      "right_wrist": [
+        229,
+        289,
+        1529
+      ]
+    }
+  },
+  {
+    "frame_id": 137,
+    "keypoint_xyz": {
+      "left_ear": [
+        -52,
+        374,
+        818
+      ],
+      "right_ear": [
+        61,
+        355,
+        814
+      ],
+      "left_shoulder": [
+        -158,
+        474,
+        1107
+      ],
+      "right_shoulder": [
+        178,
+        482,
+        1106
+      ],
+      "left_elbow": [
+        -259,
+        411,
+        1379
+      ],
+      "right_elbow": [
+        210,
+        398,
+        1233
+      ],
+      "left_wrist": [
+        -281,
+        248,
+        1530
+      ],
+      "right_wrist": [
+        228,
+        296,
+        1524
+      ]
+    }
+  },
+  {
+    "frame_id": 138,
+    "keypoint_xyz": {
+      "left_ear": [
+        -52,
+        374,
+        814
+      ],
+      "right_ear": [
+        61,
+        364,
+        808
+      ],
+      "left_shoulder": [
+        -159,
+        474,
+        1107
+      ],
+      "right_shoulder": [
+        179,
+        480,
+        1106
+      ],
+      "left_elbow": [
+        -259,
+        411,
+        1380
+      ],
+      "right_elbow": [
+        210,
+        382,
+        1251
+      ],
+      "left_wrist": [
+        -280,
+        243,
+        1530
+      ],
+      "right_wrist": [
+        229,
+        288,
+        1530
+      ]
+    }
+  },
+  {
+    "frame_id": 139,
+    "keypoint_xyz": {
+      "left_ear": [
+        -53,
+        372,
+        816
+      ],
+      "right_ear": [
+        60,
+        367,
+        807
+      ],
+      "left_shoulder": [
+        -161,
+        467,
+        1110
+      ],
+      "right_shoulder": [
+        179,
+        476,
+        1108
+      ],
+      "left_elbow": [
+        -263,
+        409,
+        1393
+      ],
+      "right_elbow": [
+        207,
+        387,
+        1245
+      ],
+      "left_wrist": [
+        -280,
+        238,
+        1534
+      ],
+      "right_wrist": [
+        231,
+        298,
+        1524
+      ]
+    }
+  },
+  {
+    "frame_id": 140,
+    "keypoint_xyz": {
+      "left_ear": [
+        -53,
+        371,
+        816
+      ],
+      "right_ear": [
+        60,
+        362,
+        806
+      ],
+      "left_shoulder": [
+        -158,
+        477,
+        1104
+      ],
+      "right_shoulder": [
+        182,
+        477,
+        1108
+      ],
+      "left_elbow": [
+        -258,
+        410,
+        1358
+      ],
+      "right_elbow": [
+        209,
+        389,
+        1243
+      ],
+      "left_wrist": [
+        -279,
+        238,
+        1534
+      ],
+      "right_wrist": [
+        232,
+        287,
+        1528
+      ]
+    }
+  },
+  {
+    "frame_id": 141,
+    "keypoint_xyz": {
+      "left_ear": [
+        -54,
+        373,
+        818
+      ],
+      "right_ear": [
+        58,
+        364,
+        804
+      ],
+      "left_shoulder": [
+        -161,
+        470,
+        1110
+      ],
+      "right_shoulder": [
+        177,
+        480,
+        1105
+      ],
+      "left_elbow": [
+        -263,
+        411,
+        1391
+      ],
+      "right_elbow": [
+        208,
+        389,
+        1243
+      ],
+      "left_wrist": [
+        -279,
+        238,
+        1534
+      ],
+      "right_wrist": [
+        234,
+        292,
+        1527
+      ]
+    }
+  },
+  {
+    "frame_id": 142,
+    "keypoint_xyz": {
+      "left_ear": [
+        -53,
+        374,
+        816
+      ],
+      "right_ear": [
+        61,
+        366,
+        806
+      ],
+      "left_shoulder": [
+        -161,
+        466,
+        1110
+      ],
+      "right_shoulder": [
+        180,
+        475,
+        1106
+      ],
+      "left_elbow": [
+        -262,
+        411,
+        1399
+      ],
+      "right_elbow": [
+        208,
+        388,
+        1244
+      ],
+      "left_wrist": [
+        -277,
+        241,
+        1532
+      ],
+      "right_wrist": [
+        235,
+        295,
+        1525
+      ]
+    }
+  },
+  {
+    "frame_id": 143,
+    "keypoint_xyz": {
+      "left_ear": [
+        -55,
+        376,
+        819
+      ],
+      "right_ear": [
+        58,
+        363,
+        803
+      ],
+      "left_shoulder": [
+        -166,
+        464,
+        1114
+      ],
+      "right_shoulder": [
+        175,
+        483,
+        1102
+      ],
+      "left_elbow": [
+        -264,
+        406,
+        1414
+      ],
+      "right_elbow": [
+        209,
+        392,
+        1237
+      ],
+      "left_wrist": [
+        -272,
+        241,
+        1533
+      ],
+      "right_wrist": [
+        238,
+        292,
+        1527
+      ]
+    }
+  },
+  {
+    "frame_id": 144,
+    "keypoint_xyz": {
+      "left_ear": [
+        -53,
+        373,
+        816
+      ],
+      "right_ear": [
+        61,
+        364,
+        807
+      ],
+      "left_shoulder": [
+        -165,
+        463,
+        1113
+      ],
+      "right_shoulder": [
+        183,
+        471,
+        1111
+      ],
+      "left_elbow": [
+        -264,
+        408,
+        1411
+      ],
+      "right_elbow": [
+        210,
+        382,
+        1247
+      ],
+      "left_wrist": [
+        -272,
+        241,
+        1533
+      ],
+      "right_wrist": [
+        240,
+        288,
+        1526
+      ]
+    }
+  },
+  {
+    "frame_id": 145,
+    "keypoint_xyz": {
+      "left_ear": [
+        -51,
+        371,
+        814
+      ],
+      "right_ear": [
+        60,
+        361,
+        804
+      ],
+      "left_shoulder": [
+        -166,
+        464,
+        1113
+      ],
+      "right_shoulder": [
+        178,
+        479,
+        1104
+      ],
+      "left_elbow": [
+        -263,
+        409,
+        1413
+      ],
+      "right_elbow": [
+        210,
+        373,
+        1257
+      ],
+      "left_wrist": [
+        -270,
+        243,
+        1532
+      ],
+      "right_wrist": [
+        245,
+        277,
+        1534
+      ]
+    }
+  },
+  {
+    "frame_id": 146,
+    "keypoint_xyz": {
+      "left_ear": [
+        -53,
+        375,
+        815
+      ],
+      "right_ear": [
+        60,
+        365,
+        805
+      ],
+      "left_shoulder": [
+        -161,
+        471,
+        1108
+      ],
+      "right_shoulder": [
+        180,
+        480,
+        1104
+      ],
+      "left_elbow": [
+        -263,
+        416,
+        1397
+      ],
+      "right_elbow": [
+        213,
+        386,
+        1242
+      ],
+      "left_wrist": [
+        -266,
+        248,
+        1530
+      ],
+      "right_wrist": [
+        247,
+        279,
+        1529
+      ]
+    }
+  },
+  {
+    "frame_id": 147,
+    "keypoint_xyz": {
+      "left_ear": [
+        -50,
+        375,
+        812
+      ],
+      "right_ear": [
+        64,
+        368,
+        803
+      ],
+      "left_shoulder": [
+        -161,
+        466,
+        1109
+      ],
+      "right_shoulder": [
+        188,
+        477,
+        1110
+      ],
+      "left_elbow": [
+        -260,
+        419,
+        1383
+      ],
+      "right_elbow": [
+        216,
+        370,
+        1265
+      ],
+      "left_wrist": [
+        -263,
+        248,
+        1530
+      ],
+      "right_wrist": [
+        255,
+        267,
+        1537
+      ]
+    }
+  }
+]
